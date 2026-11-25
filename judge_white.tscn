@@ -1,0 +1,17 @@
+[gd_scene format=3 uid="uid://cy5tp8t34j3tq"]
+
+[ext_resource type="Texture2D" uid="uid://su2e2u2uv8wv" path="res://content/judge_white.png" id="1_lyfkl"]
+
+[node name="Node2D" type="Node2D" unique_id=1531258650]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=871967752]
+visible = false
+texture = ExtResource("1_lyfkl")
+
+[node name="Polygon2D2" type="Polygon2D" parent="." unique_id=1941235876]
+color = Color(0.581033, 0.58103293, 0.5810329, 1)
+polygon = PackedVector2Array(0, -64, 80, 0, 0, 64, -80, 0)
+
+[node name="Polygon2D" type="Polygon2D" parent="." unique_id=563552964]
+color = Color(0.79050004, 0.8742, 0.93, 1)
+polygon = PackedVector2Array(0, -48, 64, 0, 0, 48, -64, 0)

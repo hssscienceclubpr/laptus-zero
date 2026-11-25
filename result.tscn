@@ -1,0 +1,396 @@
+[gd_scene format=3 uid="uid://bf74g2kshcyxu"]
+
+[ext_resource type="Texture2D" uid="uid://0gewsic3eh8p" path="res://content/long_back_p.png" id="1_1xs4h"]
+[ext_resource type="Script" uid="uid://d1lsi0x1npeu6" path="res://result.gd" id="1_55jci"]
+[ext_resource type="FontFile" uid="uid://ddsu0i12vjg7r" path="res://content/x8y12pxDenkiChip/x8y12pxDenkiChip.ttf" id="1_ejids"]
+[ext_resource type="FontFile" uid="uid://b44suuk0piweh" path="res://content/fusion-pixel-font-12px-proportional-ttf-v2026.09.25/fusion-pixel-12px-proportional-ja.ttf" id="4_mk788"]
+[ext_resource type="AudioStream" uid="uid://bh6wmd4l6sjtq" path="res://content/maou_bgm_cyber33.mp3" id="5_myq7g"]
+
+[node name="Result" type="Node2D" unique_id=1329984932]
+script = ExtResource("1_55jci")
+frame_fade_start = 10
+frame_fade_range = 30
+frame_line_anim_start = 15
+frame_line_anim_range = 30
+frame_m_loop = 17
+m_loop_len = 4
+frame_start_check_back = 120
+frame_back_range = 30
+
+[node name="Back" type="Sprite2D" parent="." unique_id=1980144351]
+texture_filter = 1
+position = Vector2(720, 320)
+scale = Vector2(5.112, 5.112)
+texture = ExtResource("1_1xs4h")
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=932101246]
+offset_right = 1160.0
+offset_bottom = 648.0
+color = Color(0.23, 0.23, 0.23, 0.8509804)
+
+[node name="UpperTextLabel" type="Label" parent="." unique_id=247027677]
+texture_filter = 1
+offset_left = 2.0
+offset_top = 24.0
+offset_right = 1154.0
+offset_bottom = 120.0
+theme_override_colors/font_color = Color(1, 0.6, 0.8466667, 1)
+theme_override_colors/font_shadow_color = Color(0.32117116, 0.16371101, 0.54830986, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/shadow_offset_x = 8
+theme_override_constants/shadow_offset_y = 8
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 80
+text = "Song Name"
+horizontal_alignment = 1
+vertical_alignment = 2
+
+[node name="UpperTextLabel2" type="Label" parent="." unique_id=1582384666]
+visible = false
+texture_filter = 1
+offset_left = 2.0
+offset_top = 24.0
+offset_right = 1154.0
+offset_bottom = 120.0
+theme_override_colors/font_color = Color(1, 0.6, 0.8466667, 1)
+theme_override_colors/font_shadow_color = Color(0.32117116, 0.16371101, 0.54830986, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/shadow_offset_x = 8
+theme_override_constants/shadow_offset_y = 8
+theme_override_fonts/font = ExtResource("4_mk788")
+theme_override_font_sizes/font_size = 80
+text = "Song Name"
+horizontal_alignment = 1
+vertical_alignment = 2
+
+[node name="BottomTextLabel" type="Label" parent="." unique_id=1339339972]
+texture_filter = 1
+offset_top = 104.0
+offset_right = 1152.0
+offset_bottom = 200.0
+theme_override_colors/font_color = Color(1, 0.6, 0.8466667, 1)
+theme_override_colors/font_shadow_color = Color(0.32117116, 0.16371101, 0.54830986, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/shadow_offset_x = 8
+theme_override_constants/shadow_offset_y = 8
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "すごい人"
+horizontal_alignment = 1
+vertical_alignment = 2
+
+[node name="DecoLine" type="Line2D" parent="." unique_id=1814833112]
+position = Vector2(0, -248)
+points = PackedVector2Array(64, 384, 1024, 384)
+
+[node name="Grade" type="Label" parent="." unique_id=2003110015]
+texture_filter = 1
+offset_left = 104.0
+offset_top = 288.0
+offset_right = 304.0
+offset_bottom = 489.0
+theme_override_constants/shadow_offset_x = 8
+theme_override_constants/shadow_offset_y = 8
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 200
+text = "FC"
+horizontal_alignment = 1
+vertical_alignment = 2
+
+[node name="DecoLine" type="Line2D" parent="Grade" unique_id=667126416]
+position = Vector2(-64, -168)
+points = PackedVector2Array(0, 384, 312, 384)
+
+[node name="Perfect" type="Label" parent="." unique_id=1049505416]
+offset_left = 408.0
+offset_top = 256.0
+offset_right = 592.0
+offset_bottom = 312.0
+theme_override_colors/font_color = Color(0.93333334, 0.78431374, 0.2627451, 1)
+theme_override_colors/font_shadow_color = Color(0.44, 0.44, 0.44, 1)
+theme_override_constants/shadow_offset_x = 4
+theme_override_constants/shadow_offset_y = 4
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "Perfect"
+
+[node name="Num" type="Label" parent="Perfect" unique_id=1411052852]
+layout_mode = 0
+offset_left = 176.0
+offset_right = 304.0
+offset_bottom = 56.0
+theme_override_colors/font_color = Color(0.93, 0.93, 0.93, 1)
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "1500"
+horizontal_alignment = 2
+
+[node name="Good" type="Label" parent="." unique_id=1245688399]
+offset_left = 408.0
+offset_top = 312.0
+offset_right = 592.0
+offset_bottom = 368.0
+theme_override_colors/font_color = Color(0.10980392, 0.6509804, 0.8901961, 1)
+theme_override_colors/font_shadow_color = Color(0.4392157, 0.4392157, 0.4392157, 1)
+theme_override_constants/shadow_offset_x = 4
+theme_override_constants/shadow_offset_y = 4
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "Good"
+
+[node name="Num" type="Label" parent="Good" unique_id=1701624326]
+layout_mode = 0
+offset_left = 176.0
+offset_right = 304.0
+offset_bottom = 56.0
+theme_override_colors/font_color = Color(0.93, 0.93, 0.93, 1)
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "1500"
+horizontal_alignment = 2
+
+[node name="Bad" type="Label" parent="." unique_id=233896692]
+offset_left = 408.0
+offset_top = 368.0
+offset_right = 592.0
+offset_bottom = 424.0
+theme_override_colors/font_color = Color(1, 0.30980393, 0.12156863, 1)
+theme_override_colors/font_shadow_color = Color(0.4392157, 0.4392157, 0.4392157, 1)
+theme_override_constants/shadow_offset_x = 4
+theme_override_constants/shadow_offset_y = 4
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "Bad"
+
+[node name="Num" type="Label" parent="Bad" unique_id=2130307220]
+layout_mode = 0
+offset_left = 176.0
+offset_right = 304.0
+offset_bottom = 56.0
+theme_override_colors/font_color = Color(0.93, 0.93, 0.93, 1)
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "1500"
+horizontal_alignment = 2
+
+[node name="Miss" type="Label" parent="." unique_id=1795559384]
+offset_left = 408.0
+offset_top = 424.0
+offset_right = 592.0
+offset_bottom = 480.0
+theme_override_colors/font_color = Color(0.77199996, 0.43, 1, 1)
+theme_override_colors/font_shadow_color = Color(0.4392157, 0.4392157, 0.4392157, 1)
+theme_override_constants/shadow_offset_x = 4
+theme_override_constants/shadow_offset_y = 4
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "Miss"
+
+[node name="Num" type="Label" parent="Miss" unique_id=1210115853]
+layout_mode = 0
+offset_left = 176.0
+offset_right = 304.0
+offset_bottom = 56.0
+theme_override_colors/font_color = Color(0.93, 0.93, 0.93, 1)
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "1500"
+horizontal_alignment = 2
+
+[node name="Damage" type="Label" parent="." unique_id=1499205073]
+offset_left = 408.0
+offset_top = 480.0
+offset_right = 592.0
+offset_bottom = 536.0
+theme_override_colors/font_color = Color(1, 0.29500008, 0.100000024, 1)
+theme_override_colors/font_shadow_color = Color(0.4392157, 0.4392157, 0.4392157, 1)
+theme_override_constants/shadow_offset_x = 4
+theme_override_constants/shadow_offset_y = 4
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "Damage"
+
+[node name="Num" type="Label" parent="Damage" unique_id=1345193315]
+layout_mode = 0
+offset_left = 176.0
+offset_right = 304.0
+offset_bottom = 56.0
+theme_override_colors/font_color = Color(0.93, 0.93, 0.93, 1)
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "1500"
+horizontal_alignment = 2
+
+[node name="MaxCombo" type="Label" parent="." unique_id=362100476]
+offset_left = 376.0
+offset_top = 552.0
+offset_right = 624.0
+offset_bottom = 608.0
+theme_override_colors/font_color = Color(1, 0.41960785, 0, 1)
+theme_override_colors/font_shadow_color = Color(0.44, 0.44, 0.44, 1)
+theme_override_constants/shadow_offset_x = 4
+theme_override_constants/shadow_offset_y = 4
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "Max Combo"
+
+[node name="Num" type="Label" parent="MaxCombo" unique_id=1326982972]
+layout_mode = 0
+offset_left = 248.0
+offset_right = 376.0
+offset_bottom = 56.0
+theme_override_colors/font_color = Color(0.93, 0.93, 0.93, 1)
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "1500"
+horizontal_alignment = 2
+
+[node name="LateTap" type="Label" parent="." unique_id=699309888]
+offset_left = 752.0
+offset_top = 264.0
+offset_right = 1000.0
+offset_bottom = 320.0
+theme_override_colors/font_color = Color(1, 0.60833335, 0.5, 1)
+theme_override_colors/font_shadow_color = Color(0.44, 0.44, 0.44, 1)
+theme_override_constants/shadow_offset_x = 4
+theme_override_constants/shadow_offset_y = 4
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "Late(tap)"
+
+[node name="Num" type="Label" parent="LateTap" unique_id=938111135]
+layout_mode = 0
+offset_left = 248.0
+offset_right = 376.0
+offset_bottom = 56.0
+theme_override_colors/font_color = Color(0.93, 0.93, 0.93, 1)
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "1500"
+horizontal_alignment = 2
+
+[node name="EarlyTap" type="Label" parent="." unique_id=81651848]
+offset_left = 752.0
+offset_top = 320.0
+offset_right = 1000.0
+offset_bottom = 376.0
+theme_override_colors/font_color = Color(0.445, 0.7564999, 0.89, 1)
+theme_override_colors/font_shadow_color = Color(0.44, 0.44, 0.44, 1)
+theme_override_constants/shadow_offset_x = 4
+theme_override_constants/shadow_offset_y = 4
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "Early(tap)"
+
+[node name="Num" type="Label" parent="EarlyTap" unique_id=327942135]
+layout_mode = 0
+offset_left = 248.0
+offset_right = 376.0
+offset_bottom = 56.0
+theme_override_colors/font_color = Color(0.93, 0.93, 0.93, 1)
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "1500"
+horizontal_alignment = 2
+
+[node name="LateSlide" type="Label" parent="." unique_id=1467887685]
+offset_left = 752.0
+offset_top = 392.0
+offset_right = 1000.0
+offset_bottom = 448.0
+theme_override_colors/font_color = Color(1, 0.60833335, 0.5, 1)
+theme_override_colors/font_shadow_color = Color(0.44, 0.44, 0.44, 1)
+theme_override_constants/shadow_offset_x = 4
+theme_override_constants/shadow_offset_y = 4
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "Late(slide)"
+
+[node name="Num" type="Label" parent="LateSlide" unique_id=157082754]
+layout_mode = 0
+offset_left = 248.0
+offset_right = 376.0
+offset_bottom = 56.0
+theme_override_colors/font_color = Color(0.93, 0.93, 0.93, 1)
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "1500"
+horizontal_alignment = 2
+
+[node name="EarlySlide" type="Label" parent="." unique_id=1253310570]
+offset_left = 752.0
+offset_top = 448.0
+offset_right = 1012.0
+offset_bottom = 504.0
+theme_override_colors/font_color = Color(0.445, 0.7564999, 0.89, 1)
+theme_override_colors/font_shadow_color = Color(0.44, 0.44, 0.44, 1)
+theme_override_constants/shadow_offset_x = 4
+theme_override_constants/shadow_offset_y = 4
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "Early(slide)"
+
+[node name="Num" type="Label" parent="EarlySlide" unique_id=1303312980]
+layout_mode = 0
+offset_left = 248.0
+offset_right = 376.0
+offset_bottom = 56.0
+theme_override_colors/font_color = Color(0.93, 0.93, 0.93, 1)
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "1500"
+horizontal_alignment = 2
+
+[node name="Difficulty" type="Label" parent="." unique_id=627536988]
+offset_left = 48.0
+offset_top = 160.0
+offset_right = 232.0
+offset_bottom = 216.0
+theme_override_colors/font_color = Color(0.29411766, 0.76862746, 0.23137255, 1)
+theme_override_colors/font_shadow_color = Color(0.44, 0.44, 0.44, 1)
+theme_override_constants/shadow_offset_x = 4
+theme_override_constants/shadow_offset_y = 4
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "Easy"
+
+[node name="MessageLabel" type="Label" parent="." unique_id=1797412822]
+offset_left = 848.0
+offset_top = 560.0
+offset_right = 1116.0
+offset_bottom = 616.0
+theme_override_colors/font_color = Color(0.93, 0.93, 0.93, 0.8784314)
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "全おしでもどる"
+
+[node name="Crashed" type="Label" parent="." unique_id=431531375]
+offset_left = 96.0
+offset_top = 528.0
+offset_right = 288.0
+offset_bottom = 584.0
+theme_override_colors/font_color = Color(1, 0.21176471, 0, 1)
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "crashed"
+
+[node name="Percent" type="Label" parent="." unique_id=1747947277]
+offset_left = 168.0
+offset_top = 232.0
+offset_right = 360.0
+offset_bottom = 288.0
+theme_override_colors/font_color = Color(1, 1, 1, 1)
+theme_override_fonts/font = ExtResource("1_ejids")
+theme_override_font_sizes/font_size = 48
+text = "100.00%"
+horizontal_alignment = 2
+
+[node name="blackOverlay" type="ColorRect" parent="." unique_id=2030035768]
+modulate = Color(1, 1, 1, 0)
+offset_right = 1160.0
+offset_bottom = 648.0
+color = Color(0, 0, 0, 1)
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="." unique_id=401164324]
+stream = ExtResource("5_myq7g")
+autoplay = true

@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://6xajstiprur4"]
+
+[ext_resource type="Texture2D" uid="uid://fc1tm821xklh" path="res://work/hold_effect.svg" id="1_r7fcg"]
+
+[node name="Node3D" type="Node3D" unique_id=765404559]
+
+[node name="Sprite3D" type="Sprite3D" parent="." unique_id=871184680]
+centered = false
+pixel_size = 0.0078125
+texture = ExtResource("1_r7fcg")

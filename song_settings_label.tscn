@@ -1,0 +1,38 @@
+[gd_scene format=3 uid="uid://dge2xc7n8t0sq"]
+
+[ext_resource type="Texture2D" uid="uid://ixmx2nagkvvq" path="res://content/triangle.png" id="1_xcng1"]
+[ext_resource type="FontFile" uid="uid://ddsu0i12vjg7r" path="res://content/x8y12pxDenkiChip/x8y12pxDenkiChip.ttf" id="1_xomcr"]
+
+[node name="SongSettingsLabel" type="Node2D" unique_id=1232724253]
+
+[node name="Name" type="Label" parent="." unique_id=222470223]
+modulate = Color(0.73094195, 0.7311467, 0.8703045, 1)
+texture_filter = 1
+offset_top = -48.0
+offset_right = 184.0
+offset_bottom = -7.0
+theme_override_fonts/font = ExtResource("1_xomcr")
+theme_override_font_sizes/font_size = 40
+text = "Speed"
+
+[node name="tri" type="Sprite2D" parent="Name" unique_id=675832292]
+texture_filter = 1
+position = Vector2(-26, 21)
+scale = Vector2(3, 3)
+texture = ExtResource("1_xcng1")
+
+[node name="Option" type="Label" parent="." unique_id=1369244687]
+texture_filter = 1
+offset_left = 128.0
+offset_top = -48.0
+offset_right = 384.0
+offset_bottom = -7.0
+theme_override_fonts/font = ExtResource("1_xomcr")
+theme_override_font_sizes/font_size = 40
+text = "normal"
+horizontal_alignment = 1
+
+[node name="Underline" type="Line2D" parent="Option" unique_id=4141595]
+position = Vector2(-128, 48)
+points = PackedVector2Array(336, 0, 176, 0)
+width = 8.0

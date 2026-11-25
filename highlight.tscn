@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://cgp51lt5tpkjj"]
+
+[ext_resource type="Texture2D" uid="uid://d01bukl8uqaxi" path="res://content/highlight.png" id="1_lnphh"]
+
+[node name="Sprite3D" type="Sprite3D" unique_id=1758986180]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 4, 0, 0, 0)
+centered = false
+pixel_size = 0.0625
+axis = 1
+texture = ExtResource("1_lnphh")

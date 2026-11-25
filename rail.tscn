@@ -1,0 +1,103 @@
+[gd_scene format=3 uid="uid://baodu35pkugfk"]
+
+[ext_resource type="Texture2D" uid="uid://bcddqnxa8hr1e" path="res://content/rail.png" id="1_stgit"]
+[ext_resource type="Texture2D" uid="uid://bwhvdt1dooqbf" path="res://content/rail_tail.png" id="2_d273v"]
+[ext_resource type="Texture2D" uid="uid://d2eshlirm15es" path="res://content/rail_mask.png" id="3_d273v"]
+[ext_resource type="Texture2D" uid="uid://dncmr54t6wm8r" path="res://content/rail_tail_mask.png" id="4_r3ugp"]
+[ext_resource type="Texture2D" uid="uid://gatp43a5f1e3" path="res://content/rail_mask_light.png" id="5_ajfa3"]
+[ext_resource type="FontFile" uid="uid://ddsu0i12vjg7r" path="res://content/x8y12pxDenkiChip/x8y12pxDenkiChip.ttf" id="6_f6uxs"]
+[ext_resource type="FontFile" uid="uid://b44suuk0piweh" path="res://content/fusion-pixel-font-12px-proportional-ttf-v2026.09.25/fusion-pixel-12px-proportional-ja.ttf" id="7_7mvft"]
+[ext_resource type="Texture2D" uid="uid://og65edqfu2ke" path="res://content/rail_highlight.png" id="7_ocw8u"]
+[ext_resource type="Texture2D" uid="uid://baf4rxa0mib88" path="res://content/rail_tail_highlight.png" id="8_qf4l2"]
+
+[node name="rail" type="Node2D" unique_id=1861353185]
+
+[node name="Rail" type="Sprite2D" parent="." unique_id=679742973]
+texture_filter = 1
+position = Vector2(64, -64)
+scale = Vector2(4, 4)
+texture = ExtResource("1_stgit")
+
+[node name="Tail" type="TextureRect" parent="." unique_id=677136612]
+texture_filter = 1
+offset_left = 128.0
+offset_top = -128.0
+offset_right = 398.5
+offset_bottom = -96.0
+scale = Vector2(4, 4)
+texture = ExtResource("2_d273v")
+stretch_mode = 1
+
+[node name="RailMask" type="Sprite2D" parent="." unique_id=96751832]
+modulate = Color(1, 0, 0, 1)
+texture_filter = 1
+position = Vector2(64, -64)
+scale = Vector2(4, 4)
+texture = ExtResource("3_d273v")
+
+[node name="TailMask" type="TextureRect" parent="." unique_id=1134084686]
+modulate = Color(1, 0, 0, 1)
+texture_filter = 1
+offset_left = 128.0
+offset_top = -128.0
+offset_right = 398.5
+offset_bottom = -96.0
+scale = Vector2(4, 4)
+texture = ExtResource("4_r3ugp")
+
+[node name="RailMaskLight" type="Sprite2D" parent="." unique_id=2142093848]
+modulate = Color(1, 1, 1, 0.7882353)
+texture_filter = 1
+position = Vector2(64, -64)
+scale = Vector2(4, 4)
+texture = ExtResource("5_ajfa3")
+
+[node name="UpperText" type="Label" parent="." unique_id=810892137]
+texture_filter = 1
+offset_left = 136.0
+offset_top = -104.0
+offset_right = 845.0
+offset_bottom = -47.0
+theme_override_fonts/font = ExtResource("6_f6uxs")
+theme_override_font_sizes/font_size = 48
+text = "Song name - artist"
+vertical_alignment = 2
+
+[node name="UpperText2" type="Label" parent="." unique_id=314707431]
+visible = false
+texture_filter = 1
+offset_left = 136.0
+offset_top = -136.0
+offset_right = 845.0
+offset_bottom = -45.0
+theme_override_fonts/font = ExtResource("7_7mvft")
+theme_override_font_sizes/font_size = 56
+text = "Song name - artist"
+vertical_alignment = 2
+
+[node name="BottomText" type="Label" parent="." unique_id=1042307884]
+texture_filter = 1
+offset_left = 105.0
+offset_top = -30.0
+offset_right = 814.0
+offset_bottom = -13.0
+theme_override_fonts/font = ExtResource("6_f6uxs")
+theme_override_font_sizes/font_size = 16
+text = "Difficulty"
+vertical_alignment = 2
+
+[node name="RailHighLight" type="Sprite2D" parent="." unique_id=1686442151]
+texture_filter = 1
+position = Vector2(64, -64)
+scale = Vector2(4, 4)
+texture = ExtResource("7_ocw8u")
+
+[node name="TailHighLight" type="TextureRect" parent="." unique_id=1055331118]
+texture_filter = 1
+offset_left = 128.0
+offset_top = -132.0
+offset_right = 398.5
+offset_bottom = -98.0
+scale = Vector2(4, 4)
+texture = ExtResource("8_qf4l2")
+stretch_mode = 1

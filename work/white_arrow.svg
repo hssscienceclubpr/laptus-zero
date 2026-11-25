@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733332"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (1:1.4.4+202605061436+dcaf3e7d9e)"
+   sodipodi:docname="white_arrow.svg"
+   inkscape:export-filename="../content/white_arrow.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="2.1820712"
+     inkscape:cx="46.744579"
+     inkscape:cy="80.199033"
+     inkscape:window-width="1854"
+     inkscape:window-height="1131"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1"
+       x="-0.28339383"
+       y="-0.31867348"
+       width="1.5667877"
+       height="1.637347">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.8857811"
+         id="feGaussianBlur1" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       style="fill:#ffffff;fill-opacity:0.63682002;stroke-width:5.29646;stroke-linecap:square;stroke-miterlimit:10;stroke-dashoffset:47.9744"
+       d="M 2.9098874,33.866666 61.224053,7.9374998 V 59.795832 Z"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="rect1-3"
+       style="fill:#ffffff;fill-opacity:0.79611802;stroke-width:3.70519;stroke-linecap:square;stroke-miterlimit:10;stroke-dashoffset:47.9744"
+       d="M 20.323175,33.866666 64.00694,15.875 v 35.983332 z"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="rect1-35"
+       style="opacity:0.9;fill:#ffffff;fill-opacity:0.63682;stroke-width:5.29646;stroke-linecap:square;stroke-miterlimit:10;stroke-dashoffset:47.9744;filter:url(#filter1)"
+       d="M 2.682609,33.536308 60.996775,7.6071424 V 59.465474 Z"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="glow" />
+  </g>
+</svg>

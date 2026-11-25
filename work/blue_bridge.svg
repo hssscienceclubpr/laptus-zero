@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (1:1.4.4+202605061436+dcaf3e7d9e)"
+   sodipodi:docname="blue_bridge.svg"
+   inkscape:export-filename="../content/blue_bridge.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="2.1820712"
+     inkscape:cx="129.00587"
+     inkscape:cy="137.94234"
+     inkscape:window-width="1854"
+     inkscape:window-height="1131"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000fff;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#00ff7b;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="34.678448"
+       y1="-8.9293337"
+       x2="34.678448"
+       y2="56.460464"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.82528585,0,0,0.8075165,5.2470366,14.67558)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3"
+       x="-0.27525397"
+       y="-0.47093249"
+       width="1.5505079"
+       height="1.9418653">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.3875682"
+         id="feGaussianBlur3" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       style="fill:none;stroke:url(#linearGradient2);stroke-width:8.63971;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dashoffset:47.9744"
+       d="m 11.251154,47.085127 c 0,0 2.064674,-26.507469 22.115168,-26.43679 20.050494,0.07068 23.115856,26.43679 23.115856,26.43679"
+       sodipodi:nodetypes="czc" />
+    <path
+       id="rect1-2"
+       style="fill:none;stroke:#fff3f7;stroke-width:8.63971;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dashoffset:47.9744;stroke-opacity:1;filter:url(#filter3)"
+       d="m 11.243851,46.685113 c 0,0 2.064674,-26.507469 22.115168,-26.43679 20.050494,0.07068 23.115856,26.43679 23.115856,26.43679"
+       sodipodi:nodetypes="czc" />
+  </g>
+</svg>

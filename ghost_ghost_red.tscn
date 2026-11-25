@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://cka3h7ysqjbt0"]
+
+[ext_resource type="Texture2D" uid="uid://icrvubaxl4ed" path="res://content/ghost_red.png" id="1_hw8cb"]
+
+[node name="Node3D" type="Node3D" unique_id=1363926190]
+
+[node name="ghost" type="Sprite3D" parent="." unique_id=1020475499]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2, 0, -0.5)
+pixel_size = 0.0052083
+axis = 1
+texture = ExtResource("1_hw8cb")

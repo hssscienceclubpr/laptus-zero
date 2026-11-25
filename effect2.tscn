@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://8qhotp32v1jb"]
+
+[ext_resource type="Texture2D" uid="uid://cayb8frd2dbf6" path="res://content/effect2.png" id="1_guiaa"]
+
+[node name="Node3D" type="Node3D" unique_id=1984598901]
+
+[node name="Sprite3D" type="Sprite3D" parent="." unique_id=1363710869]
+transform = Transform3D(1, 0, 0, 0, 0.55, 0, 0, 0, 1, 0, 0, 0)
+centered = false
+pixel_size = 0.02
+texture = ExtResource("1_guiaa")

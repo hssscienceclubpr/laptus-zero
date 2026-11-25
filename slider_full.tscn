@@ -1,0 +1,25 @@
+[gd_scene format=3 uid="uid://c4rccebw2luhc"]
+
+[ext_resource type="Shader" uid="uid://bmkakq7r5iiu8" path="res://slider_left.gdshader" id="1_ax70p"]
+[ext_resource type="Texture2D" uid="uid://bab0kmdcwx8x8" path="res://content/white_arrow.png" id="2_3vhkb"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_vrqtx"]
+render_priority = 0
+shader = ExtResource("1_ax70p")
+shader_parameter/dir = 1.0
+shader_parameter/col0 = Vector3(1, 1, 1)
+shader_parameter/col1 = Vector3(0.6, 0.6, 0.7)
+shader_parameter/len = 6.0
+shader_parameter/a = 1.0
+
+[node name="Node3D" type="Node3D" unique_id=1414117762]
+
+[node name="note" type="CSGBox3D" parent="." unique_id=854158954]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3, 0, -0.5)
+size = Vector3(6, 0, 1)
+material = SubResource("ShaderMaterial_vrqtx")
+
+[node name="arrow" type="Sprite3D" parent="." unique_id=1801632668]
+transform = Transform3D(0.605, 0, 0, 0, 0.605, 0, 0, 0, 0.605, 3, 0.808, -0.493)
+flip_h = true
+texture = ExtResource("2_3vhkb")

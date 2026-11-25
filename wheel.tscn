@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://dg6gl5v563xhy"]
+
+[ext_resource type="Texture2D" uid="uid://4ss2ovirmcgt" path="res://content/wheel.png" id="1_8m8ww"]
+[ext_resource type="Script" uid="uid://1auet8vmokfv" path="res://wheel_rotation.gd" id="2_e0ure"]
+
+[node name="Node3D" type="Node3D" unique_id=1024099464]
+
+[node name="Sprite3D" type="Sprite3D" parent="." unique_id=942023003]
+transform = Transform3D(0.37, 0, 0, 0, 0.3531876, -0.11026567, 0, 0.11026567, 0.3531876, 0, 0, -0.757866)
+rotation_order = 1
+axis = 1
+texture = ExtResource("1_8m8ww")
+script = ExtResource("2_e0ure")

@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://d353lsigpvbsm"]
+
+[ext_resource type="Texture2D" uid="uid://b1hioqbmg7oy3" path="res://content/wide_blue.png" id="1_22dfj"]
+[ext_resource type="Texture2D" uid="uid://c8ei1ywb3morh" path="res://content/blue_bridge.png" id="2_22dfj"]
+
+[node name="Node3D" type="Node3D" unique_id=1140195397]
+
+[node name="note" type="Sprite3D" parent="." unique_id=327276265]
+transform = Transform3D(0.329, 0, 0, 0, 0.329, 0, 0, 0, 0.5, -0.4524002, 0, 0.65099394)
+centered = false
+axis = 1
+texture = ExtResource("1_22dfj")
+
+[node name="mark" type="Sprite3D" parent="." unique_id=346429345]
+transform = Transform3D(0.88, 0, 0, 0, 0.88, 0, 0, 0, 0.88, 1, 0.6733507, -0.32876128)
+texture = ExtResource("2_22dfj")

@@ -1,0 +1,190 @@
+[gd_scene format=3 uid="uid://xjgdw3olhx1q"]
+
+[ext_resource type="Texture2D" uid="uid://28ice6p6i3km" path="res://content/long_back.png" id="1_272bh"]
+[ext_resource type="FontFile" uid="uid://ddsu0i12vjg7r" path="res://content/x8y12pxDenkiChip/x8y12pxDenkiChip.ttf" id="2_0xm2m"]
+[ext_resource type="Script" uid="uid://prdyij8gdubj" path="res://flowchart.gd" id="2_272bh"]
+[ext_resource type="Texture2D" uid="uid://ceh146i0ke4ht" path="res://content/settings_back.png" id="3_h2yge"]
+[ext_resource type="Texture2D" uid="uid://d0qu2gqvwv5ky" path="res://content/button.png" id="4_1bvp3"]
+[ext_resource type="FontFile" uid="uid://cnw5ngrk5g8ye" path="res://content/fusion-pixel-font-10px-proportional-ttf-v2026.09.25/fusion-pixel-10px-proportional-ja.ttf" id="4_5vw27"]
+[ext_resource type="Texture2D" uid="uid://cs4ou6wa82e4a" path="res://content/transition_anim.png" id="6_7mycd"]
+
+[node name="Node2D" type="Node2D" unique_id=335262041]
+
+[node name="Back" type="Sprite2D" parent="." unique_id=1999479014]
+texture_filter = 1
+position = Vector2(1296, 319.99997)
+scale = Vector2(0.6323652, 0.62845886)
+texture = ExtResource("1_272bh")
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=1021096749]
+offset_right = 1160.0
+offset_bottom = 648.0
+color = Color(0.2, 0.2, 0.2, 0.79607844)
+
+[node name="flowchart" type="Node2D" parent="." unique_id=1816072687]
+position = Vector2(184, 80)
+script = ExtResource("2_272bh")
+left_x = 450
+interval_y = 150
+p_gain = 10.0
+cursor_y = 325
+dent = 120
+huge_dent = 1000
+hide_frames = 15
+settings_left_x = 44
+settings_upper_y = 200
+settings_interval_y = 64
+settings_hide_x = -500
+load_count_to_load = 15
+transition_interval = 3
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="flowchart" unique_id=46339615]
+
+[node name="Breadcrumbs" type="Label" parent="." unique_id=272913628]
+modulate = Color(1, 1, 1, 0.49411765)
+texture_filter = 1
+offset_left = 728.0
+offset_top = 24.0
+offset_right = 1128.0
+offset_bottom = 72.0
+theme_override_fonts/font = ExtResource("2_0xm2m")
+theme_override_font_sizes/font_size = 24
+text = "main"
+horizontal_alignment = 2
+
+[node name="ChartDataLabels" type="Node2D" parent="." unique_id=854808986]
+position = Vector2(0, 40)
+
+[node name="HoldEnd" type="Label" parent="ChartDataLabels" unique_id=1098957512]
+offset_left = 32.0
+offset_top = 64.0
+offset_right = 224.0
+offset_bottom = 110.0
+theme_override_colors/font_color = Color(0.0666666, 1, 0, 0.5176471)
+theme_override_fonts/font = ExtResource("4_5vw27")
+theme_override_font_sizes/font_size = 32
+text = "終端判定あり"
+
+[node name="Difficulty" type="Label" parent="ChartDataLabels" unique_id=118060132]
+texture_filter = 1
+offset_left = 24.0
+offset_top = 120.0
+offset_right = 160.0
+offset_bottom = 153.0
+theme_override_colors/font_color = Color(0.60933006, 0.6093301, 0.60933006, 1)
+theme_override_fonts/font = ExtResource("2_0xm2m")
+theme_override_font_sizes/font_size = 32
+text = "Difficulty"
+
+[node name="Label" type="Label" parent="ChartDataLabels/Difficulty" unique_id=29527601]
+texture_filter = 1
+layout_mode = 0
+offset_left = 16.0
+offset_top = 40.0
+offset_right = 248.0
+offset_bottom = 73.0
+theme_override_fonts/font = ExtResource("2_0xm2m")
+theme_override_font_sizes/font_size = 32
+text = "Easy"
+
+[node name="Comment" type="Label" parent="ChartDataLabels" unique_id=586080136]
+texture_filter = 1
+offset_left = 24.0
+offset_top = 216.0
+offset_right = 109.0
+offset_bottom = 249.0
+theme_override_colors/font_color = Color(0.60784316, 0.60784316, 0.60784316, 1)
+theme_override_fonts/font = ExtResource("2_0xm2m")
+theme_override_font_sizes/font_size = 32
+
+[node name="Label" type="Label" parent="ChartDataLabels/Comment" unique_id=470477472]
+texture_filter = 1
+custom_maximum_size = Vector2(344, -1)
+layout_mode = 0
+offset_left = 8.0
+offset_top = 48.0
+offset_right = 352.0
+offset_bottom = 184.0
+theme_override_fonts/font = ExtResource("2_0xm2m")
+theme_override_font_sizes/font_size = 32
+text = "神曲"
+autowrap_mode = 3
+
+[node name="Artist" type="Label" parent="ChartDataLabels" unique_id=1989706822]
+texture_filter = 1
+offset_left = 232.0
+offset_top = 120.0
+offset_right = 368.0
+offset_bottom = 153.0
+theme_override_colors/font_color = Color(0.60933006, 0.6093301, 0.60933006, 1)
+theme_override_fonts/font = ExtResource("2_0xm2m")
+theme_override_font_sizes/font_size = 32
+text = "Artist"
+
+[node name="Label" type="Label" parent="ChartDataLabels/Artist" unique_id=1307838258]
+texture_filter = 1
+layout_mode = 0
+offset_left = 16.0
+offset_top = 40.0
+offset_right = 248.0
+offset_bottom = 73.0
+theme_override_fonts/font = ExtResource("2_0xm2m")
+theme_override_font_sizes/font_size = 32
+text = "すごい人"
+
+[node name="Settings" type="Node2D" parent="." unique_id=2119642565]
+
+[node name="NinePatchRect" type="NinePatchRect" parent="Settings" unique_id=491569445]
+texture_filter = 1
+offset_left = -328.0
+offset_top = -8.0
+offset_right = -281.0
+offset_bottom = 34.0
+scale = Vector2(16, 16)
+texture = ExtResource("3_h2yge")
+patch_margin_left = 1
+patch_margin_top = 1
+patch_margin_right = 1
+patch_margin_bottom = 1
+
+[node name="KeyStrokeOverlay" type="Node2D" parent="." unique_id=186145255]
+
+[node name="key0" type="Sprite2D" parent="KeyStrokeOverlay" unique_id=337587368]
+texture_filter = 1
+position = Vector2(56, 56)
+scale = Vector2(4, 4)
+texture = ExtResource("4_1bvp3")
+hframes = 8
+
+[node name="key1" type="Sprite2D" parent="KeyStrokeOverlay" unique_id=792252865]
+texture_filter = 1
+position = Vector2(128, 56)
+scale = Vector2(4, 4)
+texture = ExtResource("4_1bvp3")
+hframes = 8
+frame = 2
+
+[node name="key2" type="Sprite2D" parent="KeyStrokeOverlay" unique_id=1796925911]
+texture_filter = 1
+position = Vector2(200, 56)
+scale = Vector2(4, 4)
+texture = ExtResource("4_1bvp3")
+hframes = 8
+frame = 4
+
+[node name="key3" type="Sprite2D" parent="KeyStrokeOverlay" unique_id=427761453]
+texture_filter = 1
+position = Vector2(272, 56)
+scale = Vector2(4, 4)
+texture = ExtResource("4_1bvp3")
+hframes = 8
+frame = 6
+
+[node name="Transition" type="Sprite2D" parent="." unique_id=1080801560]
+visible = false
+texture_filter = 1
+texture_repeat = 1
+position = Vector2(576, 324)
+scale = Vector2(287.99997, 162)
+texture = ExtResource("6_7mycd")
+hframes = 10
