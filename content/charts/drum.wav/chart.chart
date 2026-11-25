@@ -1,0 +1,147 @@
+%{
+  "bpm": 120,
+  "duration": 4,
+  "objs": [
+    {
+      "kind": "line",
+      "beat": 0,
+      "isMeasure": true,
+      "time": 0,
+      "pos": 0
+    },
+    {
+      "time": 0,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 0
+    },
+    {
+      "time": 0,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 0
+    },
+    {
+      "time": 0,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 0
+    },
+    {
+      "time": 0,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 0
+    },
+    {
+      "kind": "speed",
+      "time": 0,
+      "ratio": 4,
+      "pos": 0
+    },
+    {
+      "time": 0.125,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 0.5
+    },
+    {
+      "time": 0.125,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 0.5
+    },
+    {
+      "time": 0.125,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 0.5
+    },
+    {
+      "time": 0.125,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 0.5
+    },
+    {
+      "kind": "line",
+      "beat": 1,
+      "isMeasure": false,
+      "time": 0.5,
+      "pos": 2
+    },
+    {
+      "kind": "line",
+      "beat": 2,
+      "isMeasure": false,
+      "time": 1,
+      "pos": 4
+    },
+    {
+      "kind": "line",
+      "beat": 3,
+      "isMeasure": false,
+      "time": 1.5,
+      "pos": 6
+    },
+    {
+      "kind": "line",
+      "beat": 4,
+      "isMeasure": true,
+      "time": 2,
+      "pos": 8
+    },
+    {
+      "kind": "line",
+      "beat": 5,
+      "isMeasure": false,
+      "time": 2.5,
+      "pos": 10
+    },
+    {
+      "kind": "line",
+      "beat": 6,
+      "isMeasure": false,
+      "time": 3,
+      "pos": 12
+    },
+    {
+      "kind": "line",
+      "beat": 7,
+      "isMeasure": false,
+      "time": 3.5,
+      "pos": 14
+    },
+    {
+      "kind": "line",
+      "beat": 8,
+      "isMeasure": true,
+      "time": 4,
+      "pos": 16
+    }
+  ]
+}

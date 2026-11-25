@@ -1,0 +1,7210 @@
+%{
+  "bpm": 162,
+  "duration": 170.59,
+  "audioOffset": 0,
+  "bgmVolume": 100,
+  "seVolume": 100,
+  "objs": [
+    {
+      "kind": "line",
+      "beat": 0,
+      "isMeasure": true,
+      "time": 0,
+      "pos": 0
+    },
+    {
+      "kind": "speed",
+      "time": 0,
+      "ratio": 1.5,
+      "pos": 0
+    },
+    {
+      "kind": "line",
+      "beat": 1,
+      "isMeasure": false,
+      "time": 0.37037037037037035,
+      "pos": 0.5555555555555556
+    },
+    {
+      "time": 0.5555555555555556,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 0.8333333333333334
+    },
+    {
+      "kind": "line",
+      "beat": 2,
+      "isMeasure": false,
+      "time": 0.7407407407407407,
+      "pos": 1.1111111111111112
+    },
+    {
+      "time": 0.7407407407407407,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 1.1111111111111112
+    },
+    {
+      "kind": "line",
+      "beat": 3,
+      "isMeasure": false,
+      "time": 1.1111111111111112,
+      "pos": 1.6666666666666667
+    },
+    {
+      "kind": "line",
+      "beat": 4,
+      "isMeasure": true,
+      "time": 1.4814814814814814,
+      "pos": 2.2222222222222223
+    },
+    {
+      "kind": "line",
+      "beat": 5,
+      "isMeasure": false,
+      "time": 1.8518518518518519,
+      "pos": 2.7777777777777777
+    },
+    {
+      "time": 2.037037037037037,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 3.055555555555556
+    },
+    {
+      "kind": "line",
+      "beat": 6,
+      "isMeasure": false,
+      "time": 2.2222222222222223,
+      "pos": 3.3333333333333335
+    },
+    {
+      "time": 2.2222222222222223,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 3.3333333333333335
+    },
+    {
+      "kind": "line",
+      "beat": 7,
+      "isMeasure": false,
+      "time": 2.5925925925925926,
+      "pos": 3.888888888888889
+    },
+    {
+      "kind": "line",
+      "beat": 8,
+      "isMeasure": true,
+      "time": 2.962962962962963,
+      "pos": 4.444444444444445
+    },
+    {
+      "time": 3.1481481481481484,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 4.722222222222222
+    },
+    {
+      "kind": "line",
+      "beat": 9,
+      "isMeasure": false,
+      "time": 3.3333333333333335,
+      "pos": 5
+    },
+    {
+      "time": 3.5185185185185186,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 5.277777777777778
+    },
+    {
+      "kind": "line",
+      "beat": 10,
+      "isMeasure": false,
+      "time": 3.7037037037037037,
+      "pos": 5.555555555555555
+    },
+    {
+      "kind": "line",
+      "beat": 11,
+      "isMeasure": false,
+      "time": 4.074074074074074,
+      "pos": 6.111111111111112
+    },
+    {
+      "time": 4.2592592592592595,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 6.388888888888889
+    },
+    {
+      "kind": "line",
+      "beat": 12,
+      "isMeasure": true,
+      "time": 4.444444444444445,
+      "pos": 6.666666666666667
+    },
+    {
+      "time": 4.444444444444445,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 6.666666666666667
+    },
+    {
+      "kind": "line",
+      "beat": 13,
+      "isMeasure": false,
+      "time": 4.814814814814815,
+      "pos": 7.222222222222222
+    },
+    {
+      "time": 5,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 7.5
+    },
+    {
+      "kind": "line",
+      "beat": 14,
+      "isMeasure": false,
+      "time": 5.185185185185185,
+      "pos": 7.777777777777778
+    },
+    {
+      "time": 5.185185185185185,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 7.777777777777778
+    },
+    {
+      "kind": "line",
+      "beat": 15,
+      "isMeasure": false,
+      "time": 5.555555555555555,
+      "pos": 8.333333333333332
+    },
+    {
+      "kind": "line",
+      "beat": 16,
+      "isMeasure": true,
+      "time": 5.925925925925926,
+      "pos": 8.88888888888889
+    },
+    {
+      "time": 6.111111111111111,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 9.166666666666666
+    },
+    {
+      "kind": "line",
+      "beat": 17,
+      "isMeasure": false,
+      "time": 6.296296296296297,
+      "pos": 9.444444444444445
+    },
+    {
+      "kind": "line",
+      "beat": 18,
+      "isMeasure": false,
+      "time": 6.666666666666667,
+      "pos": 10
+    },
+    {
+      "kind": "line",
+      "beat": 19,
+      "isMeasure": false,
+      "time": 7.037037037037037,
+      "pos": 10.555555555555555
+    },
+    {
+      "time": 7.222222222222222,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 10.833333333333334
+    },
+    {
+      "kind": "line",
+      "beat": 20,
+      "isMeasure": true,
+      "time": 7.407407407407407,
+      "pos": 11.11111111111111
+    },
+    {
+      "time": 7.407407407407407,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 11.11111111111111
+    },
+    {
+      "kind": "line",
+      "beat": 21,
+      "isMeasure": false,
+      "time": 7.777777777777778,
+      "pos": 11.666666666666666
+    },
+    {
+      "time": 7.962962962962963,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 11.944444444444445
+    },
+    {
+      "kind": "line",
+      "beat": 22,
+      "isMeasure": false,
+      "time": 8.148148148148149,
+      "pos": 12.222222222222223
+    },
+    {
+      "time": 8.148148148148149,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 12.222222222222223
+    },
+    {
+      "kind": "line",
+      "beat": 23,
+      "isMeasure": false,
+      "time": 8.518518518518519,
+      "pos": 12.777777777777779
+    },
+    {
+      "kind": "line",
+      "beat": 24,
+      "isMeasure": true,
+      "time": 8.88888888888889,
+      "pos": 13.333333333333334
+    },
+    {
+      "kind": "line",
+      "beat": 25,
+      "isMeasure": false,
+      "time": 9.25925925925926,
+      "pos": 13.88888888888889
+    },
+    {
+      "time": 9.444444444444445,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 14.166666666666668
+    },
+    {
+      "kind": "line",
+      "beat": 26,
+      "isMeasure": false,
+      "time": 9.62962962962963,
+      "pos": 14.444444444444445
+    },
+    {
+      "kind": "line",
+      "beat": 27,
+      "isMeasure": false,
+      "time": 10,
+      "pos": 15
+    },
+    {
+      "kind": "line",
+      "beat": 28,
+      "isMeasure": true,
+      "time": 10.37037037037037,
+      "pos": 15.555555555555555
+    },
+    {
+      "kind": "speed",
+      "time": 10.37037037037037,
+      "ratio": 2,
+      "pos": 15.555555555555555
+    },
+    {
+      "kind": "line",
+      "beat": 29,
+      "isMeasure": false,
+      "time": 10.74074074074074,
+      "pos": 16.296296296296298
+    },
+    {
+      "kind": "line",
+      "beat": 30,
+      "isMeasure": false,
+      "time": 11.11111111111111,
+      "pos": 17.037037037037038
+    },
+    {
+      "kind": "line",
+      "beat": 31,
+      "isMeasure": false,
+      "time": 11.481481481481481,
+      "pos": 17.77777777777778
+    },
+    {
+      "time": 11.481481481481481,
+      "lane": 0,
+      "endLane": 0,
+      "width": 3,
+      "kind": "slider_left",
+      "direction": "left",
+      "duration": 0,
+      "pos": 17.77777777777778
+    },
+    {
+      "time": 11.481481481481481,
+      "lane": 3,
+      "endLane": 3,
+      "width": 3,
+      "kind": "slider_right",
+      "direction": "right",
+      "duration": 0,
+      "pos": 17.77777777777778
+    },
+    {
+      "kind": "line",
+      "beat": 32,
+      "isMeasure": true,
+      "time": 11.851851851851851,
+      "pos": 18.51851851851852
+    },
+    {
+      "kind": "line",
+      "beat": 33,
+      "isMeasure": false,
+      "time": 12.222222222222221,
+      "pos": 19.25925925925926
+    },
+    {
+      "time": 12.407407407407407,
+      "lane": 1,
+      "endLane": 0,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.37037037037036846,
+      "pos": 19.629629629629626,
+      "endPos": 20.370370370370367
+    },
+    {
+      "time": 12.407407407407407,
+      "lane": 1,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 19.629629629629626
+    },
+    {
+      "time": 12.59259259259259,
+      "lane": 0.5,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 19.999999999999993
+    },
+    {
+      "kind": "line",
+      "beat": 34,
+      "isMeasure": false,
+      "time": 12.592592592592593,
+      "pos": 20
+    },
+    {
+      "time": 12.777777777777775,
+      "lane": 0,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 20.370370370370367
+    },
+    {
+      "kind": "line",
+      "beat": 35,
+      "isMeasure": false,
+      "time": 12.962962962962964,
+      "pos": 20.74074074074074
+    },
+    {
+      "time": 13.148148148148149,
+      "lane": 4,
+      "endLane": 5,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.37037037037037024,
+      "pos": 21.111111111111114,
+      "endPos": 21.851851851851855
+    },
+    {
+      "time": 13.148148148148149,
+      "lane": 4,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 21.111111111111114
+    },
+    {
+      "kind": "line",
+      "beat": 36,
+      "isMeasure": true,
+      "time": 13.333333333333334,
+      "pos": 21.48148148148148
+    },
+    {
+      "time": 13.333333333333334,
+      "lane": 4.5,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 21.48148148148148
+    },
+    {
+      "time": 13.518518518518519,
+      "lane": 5,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 21.851851851851855
+    },
+    {
+      "kind": "line",
+      "beat": 37,
+      "isMeasure": false,
+      "time": 13.703703703703704,
+      "pos": 22.22222222222222
+    },
+    {
+      "time": 13.88888888888889,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 22.592592592592595
+    },
+    {
+      "kind": "line",
+      "beat": 38,
+      "isMeasure": false,
+      "time": 14.074074074074074,
+      "pos": 22.962962962962962
+    },
+    {
+      "kind": "line",
+      "beat": 39,
+      "isMeasure": false,
+      "time": 14.444444444444445,
+      "pos": 23.703703703703702
+    },
+    {
+      "time": 14.62962962962963,
+      "lane": 0,
+      "endLane": 0,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 24.074074074074076
+    },
+    {
+      "kind": "line",
+      "beat": 40,
+      "isMeasure": true,
+      "time": 14.814814814814815,
+      "pos": 24.444444444444443
+    },
+    {
+      "kind": "line",
+      "beat": 41,
+      "isMeasure": false,
+      "time": 15.185185185185185,
+      "pos": 25.185185185185183
+    },
+    {
+      "time": 15.37037037037037,
+      "lane": 0,
+      "endLane": 0,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 25.555555555555557
+    },
+    {
+      "kind": "line",
+      "beat": 42,
+      "isMeasure": false,
+      "time": 15.555555555555555,
+      "pos": 25.925925925925924
+    },
+    {
+      "kind": "line",
+      "beat": 43,
+      "isMeasure": false,
+      "time": 15.925925925925926,
+      "pos": 26.666666666666664
+    },
+    {
+      "time": 16.11111111111111,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 27.037037037037038
+    },
+    {
+      "kind": "line",
+      "beat": 44,
+      "isMeasure": true,
+      "time": 16.296296296296298,
+      "pos": 27.407407407407412
+    },
+    {
+      "kind": "line",
+      "beat": 45,
+      "isMeasure": false,
+      "time": 16.666666666666668,
+      "pos": 28.148148148148152
+    },
+    {
+      "time": 16.85185185185185,
+      "lane": 0,
+      "endLane": 0,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 28.51851851851852
+    },
+    {
+      "time": 16.944444444444443,
+      "lane": 0.30000000000000004,
+      "endLane": 0.30000000000000004,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 28.703703703703702
+    },
+    {
+      "kind": "line",
+      "beat": 46,
+      "isMeasure": false,
+      "time": 17.037037037037038,
+      "pos": 28.888888888888893
+    },
+    {
+      "time": 17.037037037037038,
+      "lane": 0.6000000000000001,
+      "endLane": 0.6000000000000001,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 28.888888888888893
+    },
+    {
+      "time": 17.12962962962963,
+      "lane": 0.8999999999999999,
+      "endLane": 0.8999999999999999,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 29.074074074074076
+    },
+    {
+      "time": 17.22222222222222,
+      "lane": 1.2000000000000002,
+      "endLane": 1.2000000000000002,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 29.25925925925926
+    },
+    {
+      "time": 17.314814814814813,
+      "lane": 1.5,
+      "endLane": 1.5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 29.444444444444443
+    },
+    {
+      "kind": "line",
+      "beat": 47,
+      "isMeasure": false,
+      "time": 17.40740740740741,
+      "pos": 29.629629629629633
+    },
+    {
+      "time": 17.40740740740741,
+      "lane": 1.7999999999999998,
+      "endLane": 1.7999999999999998,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 29.629629629629633
+    },
+    {
+      "time": 17.5,
+      "lane": 2.1,
+      "endLane": 2.1,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 29.814814814814817
+    },
+    {
+      "time": 17.59259259259259,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 30
+    },
+    {
+      "time": 17.685185185185187,
+      "lane": 4.7,
+      "endLane": 4.7,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 30.18518518518519
+    },
+    {
+      "kind": "line",
+      "beat": 48,
+      "isMeasure": true,
+      "time": 17.77777777777778,
+      "pos": 30.370370370370374
+    },
+    {
+      "time": 17.77777777777778,
+      "lane": 4.4,
+      "endLane": 4.4,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 30.370370370370374
+    },
+    {
+      "time": 17.87037037037037,
+      "lane": 4.1,
+      "endLane": 4.1,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 30.555555555555557
+    },
+    {
+      "time": 17.962962962962962,
+      "lane": 3.8,
+      "endLane": 3.8,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 30.74074074074074
+    },
+    {
+      "time": 18.055555555555557,
+      "lane": 3.5,
+      "endLane": 3.5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 30.92592592592593
+    },
+    {
+      "kind": "line",
+      "beat": 49,
+      "isMeasure": false,
+      "time": 18.14814814814815,
+      "pos": 31.111111111111114
+    },
+    {
+      "time": 18.14814814814815,
+      "lane": 3.2,
+      "endLane": 3.2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 31.111111111111114
+    },
+    {
+      "time": 18.24074074074074,
+      "lane": 2.9,
+      "endLane": 2.9,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 31.296296296296298
+    },
+    {
+      "time": 18.333333333333332,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 31.48148148148148
+    },
+    {
+      "kind": "speed",
+      "time": 18.333333333333332,
+      "ratio": 2,
+      "pos": 31.48148148148148
+    },
+    {
+      "kind": "line",
+      "beat": 50,
+      "isMeasure": false,
+      "time": 18.51851851851852,
+      "pos": 31.851851851851855
+    },
+    {
+      "time": 18.703703703703702,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.37037037037037024,
+      "pos": 32.22222222222222,
+      "endPos": 32.96296296296296
+    },
+    {
+      "time": 18.703703703703702,
+      "lane": 1,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 32.22222222222222
+    },
+    {
+      "kind": "line",
+      "beat": 51,
+      "isMeasure": false,
+      "time": 18.88888888888889,
+      "pos": 32.592592592592595
+    },
+    {
+      "time": 18.88888888888889,
+      "lane": 1,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 32.592592592592595
+    },
+    {
+      "time": 19.074074074074073,
+      "lane": 1,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 32.96296296296296
+    },
+    {
+      "kind": "line",
+      "beat": 52,
+      "isMeasure": true,
+      "time": 19.25925925925926,
+      "pos": 33.333333333333336
+    },
+    {
+      "time": 19.444444444444443,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.37037037037037024,
+      "pos": 33.7037037037037,
+      "endPos": 34.44444444444444
+    },
+    {
+      "time": 19.444444444444443,
+      "lane": 3,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 33.7037037037037
+    },
+    {
+      "time": 19.629629629629626,
+      "lane": 3,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 34.07407407407407
+    },
+    {
+      "kind": "line",
+      "beat": 53,
+      "isMeasure": false,
+      "time": 19.62962962962963,
+      "pos": 34.074074074074076
+    },
+    {
+      "time": 19.814814814814813,
+      "lane": 3,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 34.44444444444444
+    },
+    {
+      "kind": "line",
+      "beat": 54,
+      "isMeasure": false,
+      "time": 20,
+      "pos": 34.81481481481482
+    },
+    {
+      "time": 20.185185185185187,
+      "lane": 0,
+      "endLane": 0,
+      "width": 3,
+      "kind": "slider_left",
+      "direction": "left",
+      "duration": 0,
+      "pos": 35.18518518518519
+    },
+    {
+      "kind": "line",
+      "beat": 55,
+      "isMeasure": false,
+      "time": 20.37037037037037,
+      "pos": 35.55555555555556
+    },
+    {
+      "time": 20.555555555555557,
+      "lane": 0,
+      "endLane": 0,
+      "width": 3,
+      "kind": "slider_left",
+      "direction": "right",
+      "duration": 0,
+      "pos": 35.92592592592593
+    },
+    {
+      "kind": "line",
+      "beat": 56,
+      "isMeasure": true,
+      "time": 20.74074074074074,
+      "pos": 36.2962962962963
+    },
+    {
+      "kind": "line",
+      "beat": 57,
+      "isMeasure": false,
+      "time": 21.11111111111111,
+      "pos": 37.03703703703704
+    },
+    {
+      "time": 21.296296296296298,
+      "lane": 1,
+      "endLane": 0,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.37037037037037024,
+      "pos": 37.40740740740741,
+      "endPos": 38.14814814814815
+    },
+    {
+      "time": 21.296296296296298,
+      "lane": 1,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 37.40740740740741
+    },
+    {
+      "kind": "line",
+      "beat": 58,
+      "isMeasure": false,
+      "time": 21.48148148148148,
+      "pos": 37.77777777777778
+    },
+    {
+      "time": 21.48148148148148,
+      "lane": 0.5,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 37.77777777777778
+    },
+    {
+      "time": 21.666666666666668,
+      "lane": 0,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 38.14814814814815
+    },
+    {
+      "kind": "line",
+      "beat": 59,
+      "isMeasure": false,
+      "time": 21.85185185185185,
+      "pos": 38.51851851851852
+    },
+    {
+      "time": 22.037037037037038,
+      "lane": 4,
+      "endLane": 5,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.37037037037037024,
+      "pos": 38.88888888888889,
+      "endPos": 39.62962962962963
+    },
+    {
+      "time": 22.037037037037038,
+      "lane": 4,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 38.88888888888889
+    },
+    {
+      "kind": "line",
+      "beat": 60,
+      "isMeasure": true,
+      "time": 22.22222222222222,
+      "pos": 39.25925925925926
+    },
+    {
+      "time": 22.22222222222222,
+      "lane": 4.5,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 39.25925925925926
+    },
+    {
+      "time": 22.40740740740741,
+      "lane": 5,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 39.62962962962963
+    },
+    {
+      "kind": "line",
+      "beat": 61,
+      "isMeasure": false,
+      "time": 22.59259259259259,
+      "pos": 40
+    },
+    {
+      "kind": "line",
+      "beat": 62,
+      "isMeasure": false,
+      "time": 22.962962962962962,
+      "pos": 40.74074074074074
+    },
+    {
+      "kind": "line",
+      "beat": 63,
+      "isMeasure": false,
+      "time": 23.333333333333332,
+      "pos": 41.48148148148148
+    },
+    {
+      "time": 23.425925925925927,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 41.66666666666667
+    },
+    {
+      "time": 23.51851851851852,
+      "lane": 1.25,
+      "endLane": 1.25,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 41.851851851851855
+    },
+    {
+      "time": 23.61111111111111,
+      "lane": 1.5,
+      "endLane": 1.5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 42.03703703703704
+    },
+    {
+      "kind": "line",
+      "beat": 64,
+      "isMeasure": true,
+      "time": 23.703703703703702,
+      "pos": 42.22222222222222
+    },
+    {
+      "time": 23.703703703703702,
+      "lane": 1.75,
+      "endLane": 1.75,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 42.22222222222222
+    },
+    {
+      "time": 23.796296296296298,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 42.40740740740741
+    },
+    {
+      "time": 23.796296296296298,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 42.40740740740741
+    },
+    {
+      "time": 23.88888888888889,
+      "lane": 3.75,
+      "endLane": 3.75,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 42.592592592592595
+    },
+    {
+      "time": 23.98148148148148,
+      "lane": 3.5,
+      "endLane": 3.5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 42.77777777777778
+    },
+    {
+      "kind": "line",
+      "beat": 65,
+      "isMeasure": false,
+      "time": 24.074074074074073,
+      "pos": 42.96296296296296
+    },
+    {
+      "time": 24.074074074074073,
+      "lane": 3.25,
+      "endLane": 3.25,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 42.96296296296296
+    },
+    {
+      "time": 24.166666666666668,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 43.14814814814815
+    },
+    {
+      "time": 24.25925925925926,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 43.333333333333336
+    },
+    {
+      "kind": "speed",
+      "time": 24.25925925925926,
+      "ratio": 1.5,
+      "pos": 43.333333333333336
+    },
+    {
+      "kind": "line",
+      "beat": 66,
+      "isMeasure": false,
+      "time": 24.444444444444443,
+      "pos": 43.611111111111114
+    },
+    {
+      "kind": "line",
+      "beat": 67,
+      "isMeasure": false,
+      "time": 24.814814814814813,
+      "pos": 44.166666666666664
+    },
+    {
+      "time": 24.814814814814813,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 44.166666666666664
+    },
+    {
+      "kind": "line",
+      "beat": 68,
+      "isMeasure": true,
+      "time": 25.185185185185187,
+      "pos": 44.72222222222223
+    },
+    {
+      "time": 25.37037037037037,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 45
+    },
+    {
+      "kind": "line",
+      "beat": 69,
+      "isMeasure": false,
+      "time": 25.555555555555557,
+      "pos": 45.277777777777786
+    },
+    {
+      "kind": "line",
+      "beat": 70,
+      "isMeasure": false,
+      "time": 25.925925925925927,
+      "pos": 45.833333333333336
+    },
+    {
+      "time": 25.925925925925927,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 45.833333333333336
+    },
+    {
+      "kind": "line",
+      "beat": 71,
+      "isMeasure": false,
+      "time": 26.296296296296298,
+      "pos": 46.38888888888889
+    },
+    {
+      "time": 26.48148148148148,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 46.66666666666667
+    },
+    {
+      "kind": "line",
+      "beat": 72,
+      "isMeasure": true,
+      "time": 26.666666666666668,
+      "pos": 46.94444444444445
+    },
+    {
+      "kind": "line",
+      "beat": 73,
+      "isMeasure": false,
+      "time": 27.037037037037038,
+      "pos": 47.5
+    },
+    {
+      "time": 27.22222222222222,
+      "lane": 4,
+      "endLane": 3,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.37037037037037024,
+      "pos": 47.77777777777778,
+      "endPos": 48.333333333333336
+    },
+    {
+      "time": 27.22222222222222,
+      "lane": 4,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 47.77777777777778
+    },
+    {
+      "kind": "line",
+      "beat": 74,
+      "isMeasure": false,
+      "time": 27.40740740740741,
+      "pos": 48.05555555555556
+    },
+    {
+      "time": 27.40740740740741,
+      "lane": 3.5,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 48.05555555555556
+    },
+    {
+      "time": 27.59259259259259,
+      "lane": 3,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 48.333333333333336
+    },
+    {
+      "kind": "line",
+      "beat": 75,
+      "isMeasure": false,
+      "time": 27.77777777777778,
+      "pos": 48.611111111111114
+    },
+    {
+      "time": 27.77777777777778,
+      "lane": 1,
+      "endLane": 2,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.37037037037037024,
+      "pos": 48.611111111111114,
+      "endPos": 49.16666666666667
+    },
+    {
+      "time": 27.77777777777778,
+      "lane": 1,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 48.611111111111114
+    },
+    {
+      "time": 27.962962962962962,
+      "lane": 1.5,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 48.888888888888886
+    },
+    {
+      "kind": "line",
+      "beat": 76,
+      "isMeasure": true,
+      "time": 28.14814814814815,
+      "pos": 49.16666666666667
+    },
+    {
+      "time": 28.14814814814815,
+      "lane": 2,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 49.16666666666667
+    },
+    {
+      "time": 28.333333333333332,
+      "lane": 3,
+      "endLane": 5,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.37037037037037024,
+      "pos": 49.44444444444444,
+      "endPos": 50
+    },
+    {
+      "time": 28.333333333333332,
+      "lane": 3,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 49.44444444444444
+    },
+    {
+      "kind": "line",
+      "beat": 77,
+      "isMeasure": false,
+      "time": 28.51851851851852,
+      "pos": 49.72222222222223
+    },
+    {
+      "time": 28.51851851851852,
+      "lane": 4,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 49.72222222222223
+    },
+    {
+      "time": 28.703703703703702,
+      "lane": 5,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 50
+    },
+    {
+      "kind": "line",
+      "beat": 78,
+      "isMeasure": false,
+      "time": 28.88888888888889,
+      "pos": 50.27777777777778
+    },
+    {
+      "time": 28.88888888888889,
+      "lane": 2,
+      "endLane": 0,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.37037037037037024,
+      "pos": 50.27777777777778,
+      "endPos": 50.833333333333336
+    },
+    {
+      "time": 28.88888888888889,
+      "lane": 2,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 50.27777777777778
+    },
+    {
+      "time": 29.074074074074073,
+      "lane": 1,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 50.55555555555556
+    },
+    {
+      "kind": "line",
+      "beat": 79,
+      "isMeasure": false,
+      "time": 29.25925925925926,
+      "pos": 50.833333333333336
+    },
+    {
+      "time": 29.25925925925926,
+      "lane": 0,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 50.833333333333336
+    },
+    {
+      "time": 29.444444444444443,
+      "lane": 3,
+      "endLane": 3,
+      "width": 3,
+      "kind": "slider_right",
+      "direction": "left",
+      "duration": 0,
+      "pos": 51.111111111111114
+    },
+    {
+      "kind": "line",
+      "beat": 80,
+      "isMeasure": true,
+      "time": 29.62962962962963,
+      "pos": 51.38888888888889
+    },
+    {
+      "time": 29.814814814814813,
+      "lane": 0,
+      "endLane": 0,
+      "width": 3,
+      "kind": "slider_left",
+      "direction": "right",
+      "duration": 0,
+      "pos": 51.666666666666664
+    },
+    {
+      "kind": "line",
+      "beat": 81,
+      "isMeasure": false,
+      "time": 30,
+      "pos": 51.94444444444444
+    },
+    {
+      "time": 30.185185185185187,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 52.22222222222223
+    },
+    {
+      "kind": "line",
+      "beat": 82,
+      "isMeasure": false,
+      "time": 30.37037037037037,
+      "pos": 52.5
+    },
+    {
+      "kind": "line",
+      "beat": 83,
+      "isMeasure": false,
+      "time": 30.74074074074074,
+      "pos": 53.05555555555556
+    },
+    {
+      "time": 30.74074074074074,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 53.05555555555556
+    },
+    {
+      "kind": "line",
+      "beat": 84,
+      "isMeasure": true,
+      "time": 31.11111111111111,
+      "pos": 53.611111111111114
+    },
+    {
+      "time": 31.296296296296298,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 53.88888888888889
+    },
+    {
+      "kind": "line",
+      "beat": 85,
+      "isMeasure": false,
+      "time": 31.48148148148148,
+      "pos": 54.16666666666667
+    },
+    {
+      "kind": "line",
+      "beat": 86,
+      "isMeasure": false,
+      "time": 31.85185185185185,
+      "pos": 54.72222222222222
+    },
+    {
+      "time": 31.85185185185185,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 54.72222222222222
+    },
+    {
+      "kind": "line",
+      "beat": 87,
+      "isMeasure": false,
+      "time": 32.22222222222222,
+      "pos": 55.27777777777778
+    },
+    {
+      "time": 32.407407407407405,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 55.55555555555556
+    },
+    {
+      "kind": "line",
+      "beat": 88,
+      "isMeasure": true,
+      "time": 32.592592592592595,
+      "pos": 55.83333333333334
+    },
+    {
+      "time": 32.77777777777778,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 56.111111111111114
+    },
+    {
+      "kind": "line",
+      "beat": 89,
+      "isMeasure": false,
+      "time": 32.96296296296296,
+      "pos": 56.388888888888886
+    },
+    {
+      "time": 33.148148148148145,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 56.666666666666664
+    },
+    {
+      "time": 33.24074074074074,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 56.80555555555556
+    },
+    {
+      "kind": "line",
+      "beat": 90,
+      "isMeasure": false,
+      "time": 33.333333333333336,
+      "pos": 56.94444444444445
+    },
+    {
+      "time": 33.333333333333336,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 56.94444444444445
+    },
+    {
+      "time": 33.425925925925924,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 57.08333333333333
+    },
+    {
+      "time": 33.51851851851852,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 57.22222222222223
+    },
+    {
+      "time": 33.611111111111114,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 57.361111111111114
+    },
+    {
+      "kind": "line",
+      "beat": 91,
+      "isMeasure": false,
+      "time": 33.7037037037037,
+      "pos": 57.5
+    },
+    {
+      "time": 33.7037037037037,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 57.5
+    },
+    {
+      "time": 33.7962962962963,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 57.63888888888889
+    },
+    {
+      "time": 33.888888888888886,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 57.77777777777777
+    },
+    {
+      "time": 33.98148148148148,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 57.91666666666667
+    },
+    {
+      "kind": "line",
+      "beat": 92,
+      "isMeasure": true,
+      "time": 34.074074074074076,
+      "pos": 58.05555555555556
+    },
+    {
+      "time": 34.074074074074076,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 58.05555555555556
+    },
+    {
+      "time": 34.166666666666664,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 58.19444444444444
+    },
+    {
+      "time": 34.25925925925926,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 58.333333333333336
+    },
+    {
+      "time": 34.351851851851855,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 58.47222222222223
+    },
+    {
+      "kind": "line",
+      "beat": 93,
+      "isMeasure": false,
+      "time": 34.44444444444444,
+      "pos": 58.611111111111114
+    },
+    {
+      "time": 34.44444444444444,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 58.611111111111114
+    },
+    {
+      "time": 34.629629629629626,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 58.888888888888886
+    },
+    {
+      "time": 34.72222222222222,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 59.02777777777778
+    },
+    {
+      "kind": "line",
+      "beat": 94,
+      "isMeasure": false,
+      "time": 34.81481481481482,
+      "pos": 59.16666666666667
+    },
+    {
+      "time": 34.907407407407405,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 59.30555555555556
+    },
+    {
+      "time": 35.092592592592595,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 59.58333333333334
+    },
+    {
+      "kind": "line",
+      "beat": 95,
+      "isMeasure": false,
+      "time": 35.18518518518518,
+      "pos": 59.72222222222222
+    },
+    {
+      "time": 35.18518518518518,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 59.72222222222222
+    },
+    {
+      "time": 35.27777777777778,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 59.861111111111114
+    },
+    {
+      "kind": "line",
+      "beat": 96,
+      "isMeasure": true,
+      "time": 35.55555555555556,
+      "pos": 60.277777777777786
+    },
+    {
+      "kind": "line",
+      "beat": 97,
+      "isMeasure": false,
+      "time": 35.925925925925924,
+      "pos": 60.83333333333333
+    },
+    {
+      "time": 36.111111111111114,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 61.111111111111114
+    },
+    {
+      "kind": "speed",
+      "time": 36.111111111111114,
+      "ratio": 2,
+      "pos": 61.111111111111114
+    },
+    {
+      "kind": "line",
+      "beat": 98,
+      "isMeasure": false,
+      "time": 36.2962962962963,
+      "pos": 61.48148148148148
+    },
+    {
+      "kind": "line",
+      "beat": 99,
+      "isMeasure": false,
+      "time": 36.666666666666664,
+      "pos": 62.222222222222214
+    },
+    {
+      "time": 36.851851851851855,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 62.592592592592595
+    },
+    {
+      "kind": "line",
+      "beat": 100,
+      "isMeasure": true,
+      "time": 37.03703703703704,
+      "pos": 62.96296296296296
+    },
+    {
+      "kind": "line",
+      "beat": 101,
+      "isMeasure": false,
+      "time": 37.407407407407405,
+      "pos": 63.703703703703695
+    },
+    {
+      "time": 37.592592592592595,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 64.07407407407408
+    },
+    {
+      "kind": "line",
+      "beat": 102,
+      "isMeasure": false,
+      "time": 37.77777777777778,
+      "pos": 64.44444444444444
+    },
+    {
+      "kind": "line",
+      "beat": 103,
+      "isMeasure": false,
+      "time": 38.148148148148145,
+      "pos": 65.18518518518518
+    },
+    {
+      "time": 38.148148148148145,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 65.18518518518518
+    },
+    {
+      "kind": "line",
+      "beat": 104,
+      "isMeasure": true,
+      "time": 38.51851851851852,
+      "pos": 65.92592592592592
+    },
+    {
+      "kind": "line",
+      "beat": 105,
+      "isMeasure": false,
+      "time": 38.888888888888886,
+      "pos": 66.66666666666666
+    },
+    {
+      "time": 39.074074074074076,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 67.03703703703704
+    },
+    {
+      "kind": "line",
+      "beat": 106,
+      "isMeasure": false,
+      "time": 39.25925925925926,
+      "pos": 67.4074074074074
+    },
+    {
+      "kind": "line",
+      "beat": 107,
+      "isMeasure": false,
+      "time": 39.629629629629626,
+      "pos": 68.14814814814814
+    },
+    {
+      "time": 39.81481481481482,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 68.51851851851852
+    },
+    {
+      "kind": "line",
+      "beat": 108,
+      "isMeasure": true,
+      "time": 40,
+      "pos": 68.88888888888889
+    },
+    {
+      "kind": "line",
+      "beat": 109,
+      "isMeasure": false,
+      "time": 40.370370370370374,
+      "pos": 69.62962962962963
+    },
+    {
+      "time": 40.55555555555556,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 70
+    },
+    {
+      "kind": "line",
+      "beat": 110,
+      "isMeasure": false,
+      "time": 40.74074074074074,
+      "pos": 70.37037037037037
+    },
+    {
+      "time": 40.925925925925924,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 70.74074074074073
+    },
+    {
+      "kind": "line",
+      "beat": 111,
+      "isMeasure": false,
+      "time": 41.111111111111114,
+      "pos": 71.11111111111111
+    },
+    {
+      "time": 41.111111111111114,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 71.11111111111111
+    },
+    {
+      "kind": "line",
+      "beat": 112,
+      "isMeasure": true,
+      "time": 41.48148148148148,
+      "pos": 71.85185185185185
+    },
+    {
+      "kind": "line",
+      "beat": 113,
+      "isMeasure": false,
+      "time": 41.851851851851855,
+      "pos": 72.5925925925926
+    },
+    {
+      "time": 42.03703703703704,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 72.96296296296296
+    },
+    {
+      "kind": "line",
+      "beat": 114,
+      "isMeasure": false,
+      "time": 42.22222222222222,
+      "pos": 73.33333333333333
+    },
+    {
+      "kind": "line",
+      "beat": 115,
+      "isMeasure": false,
+      "time": 42.592592592592595,
+      "pos": 74.07407407407408
+    },
+    {
+      "time": 42.77777777777778,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 74.44444444444444
+    },
+    {
+      "kind": "line",
+      "beat": 116,
+      "isMeasure": true,
+      "time": 42.96296296296296,
+      "pos": 74.81481481481481
+    },
+    {
+      "kind": "line",
+      "beat": 117,
+      "isMeasure": false,
+      "time": 43.333333333333336,
+      "pos": 75.55555555555556
+    },
+    {
+      "time": 43.51851851851852,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 75.92592592592592
+    },
+    {
+      "kind": "line",
+      "beat": 118,
+      "isMeasure": false,
+      "time": 43.7037037037037,
+      "pos": 76.29629629629629
+    },
+    {
+      "time": 43.888888888888886,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 76.66666666666666
+    },
+    {
+      "kind": "line",
+      "beat": 119,
+      "isMeasure": false,
+      "time": 44.074074074074076,
+      "pos": 77.03703703703704
+    },
+    {
+      "time": 44.074074074074076,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 77.03703703703704
+    },
+    {
+      "kind": "line",
+      "beat": 120,
+      "isMeasure": true,
+      "time": 44.44444444444444,
+      "pos": 77.77777777777777
+    },
+    {
+      "kind": "line",
+      "beat": 121,
+      "isMeasure": false,
+      "time": 44.81481481481482,
+      "pos": 78.51851851851852
+    },
+    {
+      "time": 44.81481481481482,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 78.51851851851852
+    },
+    {
+      "kind": "line",
+      "beat": 122,
+      "isMeasure": false,
+      "time": 45.18518518518518,
+      "pos": 79.25925925925925
+    },
+    {
+      "kind": "line",
+      "beat": 123,
+      "isMeasure": false,
+      "time": 45.55555555555556,
+      "pos": 80
+    },
+    {
+      "time": 45.74074074074074,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 80.37037037037037
+    },
+    {
+      "kind": "line",
+      "beat": 124,
+      "isMeasure": true,
+      "time": 45.925925925925924,
+      "pos": 80.74074074074073
+    },
+    {
+      "kind": "line",
+      "beat": 125,
+      "isMeasure": false,
+      "time": 46.2962962962963,
+      "pos": 81.48148148148148
+    },
+    {
+      "time": 46.48148148148148,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 81.85185185185185
+    },
+    {
+      "kind": "line",
+      "beat": 126,
+      "isMeasure": false,
+      "time": 46.666666666666664,
+      "pos": 82.22222222222221
+    },
+    {
+      "kind": "line",
+      "beat": 127,
+      "isMeasure": false,
+      "time": 47.03703703703704,
+      "pos": 82.96296296296296
+    },
+    {
+      "time": 47.03703703703704,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 82.96296296296296
+    },
+    {
+      "time": 47.03703703703704,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 82.96296296296296
+    },
+    {
+      "kind": "speed",
+      "time": 47.03703703703704,
+      "ratio": 2,
+      "pos": 82.96296296296296
+    },
+    {
+      "kind": "line",
+      "beat": 128,
+      "isMeasure": true,
+      "time": 47.407407407407405,
+      "pos": 83.7037037037037
+    },
+    {
+      "kind": "line",
+      "beat": 129,
+      "isMeasure": false,
+      "time": 47.77777777777778,
+      "pos": 84.44444444444444
+    },
+    {
+      "time": 47.96296296296296,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 84.81481481481481
+    },
+    {
+      "time": 47.96296296296296,
+      "lane": 0,
+      "endLane": 0,
+      "width": 3,
+      "kind": "slider_left",
+      "direction": "left",
+      "duration": 0,
+      "pos": 84.81481481481481
+    },
+    {
+      "kind": "line",
+      "beat": 130,
+      "isMeasure": false,
+      "time": 48.148148148148145,
+      "pos": 85.18518518518518
+    },
+    {
+      "kind": "line",
+      "beat": 131,
+      "isMeasure": false,
+      "time": 48.51851851851852,
+      "pos": 85.92592592592592
+    },
+    {
+      "time": 48.7037037037037,
+      "lane": 0,
+      "endLane": 0,
+      "width": 3,
+      "kind": "slider_left",
+      "direction": "right",
+      "duration": 0,
+      "pos": 86.29629629629629
+    },
+    {
+      "kind": "line",
+      "beat": 132,
+      "isMeasure": true,
+      "time": 48.888888888888886,
+      "pos": 86.66666666666666
+    },
+    {
+      "kind": "line",
+      "beat": 133,
+      "isMeasure": false,
+      "time": 49.25925925925926,
+      "pos": 87.4074074074074
+    },
+    {
+      "time": 49.44444444444444,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 87.77777777777777
+    },
+    {
+      "time": 49.44444444444444,
+      "lane": 0,
+      "endLane": 0,
+      "width": 3,
+      "kind": "slider_left",
+      "direction": "left",
+      "duration": 0,
+      "pos": 87.77777777777777
+    },
+    {
+      "kind": "line",
+      "beat": 134,
+      "isMeasure": false,
+      "time": 49.629629629629626,
+      "pos": 88.14814814814814
+    },
+    {
+      "kind": "line",
+      "beat": 135,
+      "isMeasure": false,
+      "time": 50,
+      "pos": 88.88888888888889
+    },
+    {
+      "time": 50.18518518518518,
+      "lane": 0,
+      "endLane": 0,
+      "width": 3,
+      "kind": "slider_left",
+      "direction": "right",
+      "duration": 0,
+      "pos": 89.25925925925925
+    },
+    {
+      "kind": "line",
+      "beat": 136,
+      "isMeasure": true,
+      "time": 50.370370370370374,
+      "pos": 89.62962962962963
+    },
+    {
+      "kind": "line",
+      "beat": 137,
+      "isMeasure": false,
+      "time": 50.74074074074074,
+      "pos": 90.37037037037037
+    },
+    {
+      "time": 50.925925925925924,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 90.74074074074073
+    },
+    {
+      "time": 50.925925925925924,
+      "lane": 3,
+      "endLane": 3,
+      "width": 3,
+      "kind": "slider_right",
+      "direction": "right",
+      "duration": 0,
+      "pos": 90.74074074074073
+    },
+    {
+      "kind": "line",
+      "beat": 138,
+      "isMeasure": false,
+      "time": 51.111111111111114,
+      "pos": 91.11111111111111
+    },
+    {
+      "kind": "line",
+      "beat": 139,
+      "isMeasure": false,
+      "time": 51.48148148148148,
+      "pos": 91.85185185185185
+    },
+    {
+      "time": 51.666666666666664,
+      "lane": 3,
+      "endLane": 3,
+      "width": 3,
+      "kind": "slider_right",
+      "direction": "left",
+      "duration": 0,
+      "pos": 92.22222222222221
+    },
+    {
+      "kind": "line",
+      "beat": 140,
+      "isMeasure": true,
+      "time": 51.851851851851855,
+      "pos": 92.5925925925926
+    },
+    {
+      "kind": "line",
+      "beat": 141,
+      "isMeasure": false,
+      "time": 52.22222222222222,
+      "pos": 93.33333333333333
+    },
+    {
+      "time": 52.407407407407405,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 93.7037037037037
+    },
+    {
+      "time": 52.407407407407405,
+      "lane": 3,
+      "endLane": 3,
+      "width": 3,
+      "kind": "slider_right",
+      "direction": "right",
+      "duration": 0,
+      "pos": 93.7037037037037
+    },
+    {
+      "kind": "line",
+      "beat": 142,
+      "isMeasure": false,
+      "time": 52.592592592592595,
+      "pos": 94.07407407407408
+    },
+    {
+      "kind": "line",
+      "beat": 143,
+      "isMeasure": false,
+      "time": 52.96296296296296,
+      "pos": 94.81481481481481
+    },
+    {
+      "time": 53.148148148148145,
+      "lane": 3,
+      "endLane": 3,
+      "width": 3,
+      "kind": "slider_right",
+      "direction": "left",
+      "duration": 0,
+      "pos": 95.18518518518518
+    },
+    {
+      "kind": "line",
+      "beat": 144,
+      "isMeasure": true,
+      "time": 53.333333333333336,
+      "pos": 95.55555555555556
+    },
+    {
+      "kind": "line",
+      "beat": 145,
+      "isMeasure": false,
+      "time": 53.7037037037037,
+      "pos": 96.29629629629629
+    },
+    {
+      "time": 53.888888888888886,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 96.66666666666666
+    },
+    {
+      "kind": "line",
+      "beat": 146,
+      "isMeasure": false,
+      "time": 54.074074074074076,
+      "pos": 97.03703703703704
+    },
+    {
+      "kind": "line",
+      "beat": 147,
+      "isMeasure": false,
+      "time": 54.44444444444444,
+      "pos": 97.77777777777777
+    },
+    {
+      "time": 54.629629629629626,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 98.14814814814814
+    },
+    {
+      "kind": "line",
+      "beat": 148,
+      "isMeasure": true,
+      "time": 54.81481481481482,
+      "pos": 98.51851851851852
+    },
+    {
+      "kind": "line",
+      "beat": 149,
+      "isMeasure": false,
+      "time": 55.18518518518518,
+      "pos": 99.25925925925925
+    },
+    {
+      "kind": "line",
+      "beat": 150,
+      "isMeasure": false,
+      "time": 55.55555555555556,
+      "pos": 100
+    },
+    {
+      "time": 55.74074074074074,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 100.37037037037037
+    },
+    {
+      "kind": "line",
+      "beat": 151,
+      "isMeasure": false,
+      "time": 55.925925925925924,
+      "pos": 100.74074074074073
+    },
+    {
+      "kind": "line",
+      "beat": 152,
+      "isMeasure": true,
+      "time": 56.2962962962963,
+      "pos": 101.48148148148148
+    },
+    {
+      "time": 56.2962962962963,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 101.48148148148148
+    },
+    {
+      "kind": "line",
+      "beat": 153,
+      "isMeasure": false,
+      "time": 56.666666666666664,
+      "pos": 102.22222222222221
+    },
+    {
+      "time": 56.851851851851855,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 102.5925925925926
+    },
+    {
+      "kind": "line",
+      "beat": 154,
+      "isMeasure": false,
+      "time": 57.03703703703704,
+      "pos": 102.96296296296296
+    },
+    {
+      "kind": "line",
+      "beat": 155,
+      "isMeasure": false,
+      "time": 57.407407407407405,
+      "pos": 103.7037037037037
+    },
+    {
+      "time": 57.592592592592595,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 104.07407407407408
+    },
+    {
+      "kind": "line",
+      "beat": 156,
+      "isMeasure": true,
+      "time": 57.77777777777778,
+      "pos": 104.44444444444444
+    },
+    {
+      "kind": "line",
+      "beat": 157,
+      "isMeasure": false,
+      "time": 58.148148148148145,
+      "pos": 105.18518518518518
+    },
+    {
+      "time": 58.333333333333336,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 105.55555555555556
+    },
+    {
+      "kind": "line",
+      "beat": 158,
+      "isMeasure": false,
+      "time": 58.51851851851852,
+      "pos": 105.92592592592592
+    },
+    {
+      "kind": "line",
+      "beat": 159,
+      "isMeasure": false,
+      "time": 58.888888888888886,
+      "pos": 106.66666666666666
+    },
+    {
+      "time": 59.074074074074076,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 107.03703703703704
+    },
+    {
+      "kind": "line",
+      "beat": 160,
+      "isMeasure": true,
+      "time": 59.25925925925926,
+      "pos": 107.4074074074074
+    },
+    {
+      "kind": "line",
+      "beat": 161,
+      "isMeasure": false,
+      "time": 59.629629629629626,
+      "pos": 108.14814814814814
+    },
+    {
+      "time": 59.81481481481482,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 108.51851851851852
+    },
+    {
+      "kind": "line",
+      "beat": 162,
+      "isMeasure": false,
+      "time": 60,
+      "pos": 108.88888888888889
+    },
+    {
+      "time": 60.18518518518518,
+      "lane": 0,
+      "endLane": 0,
+      "width": 3,
+      "kind": "slider_left",
+      "direction": "left",
+      "duration": 0,
+      "pos": 109.25925925925925
+    },
+    {
+      "kind": "line",
+      "beat": 163,
+      "isMeasure": false,
+      "time": 60.370370370370374,
+      "pos": 109.62962962962963
+    },
+    {
+      "kind": "line",
+      "beat": 164,
+      "isMeasure": true,
+      "time": 60.74074074074074,
+      "pos": 110.37037037037037
+    },
+    {
+      "time": 60.925925925925924,
+      "lane": 3,
+      "endLane": 3,
+      "width": 3,
+      "kind": "slider_right",
+      "direction": "right",
+      "duration": 0,
+      "pos": 110.74074074074073
+    },
+    {
+      "kind": "line",
+      "beat": 165,
+      "isMeasure": false,
+      "time": 61.111111111111114,
+      "pos": 111.11111111111111
+    },
+    {
+      "time": 61.2962962962963,
+      "lane": 0,
+      "endLane": 0,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.18518518518518334,
+      "pos": 111.48148148148148,
+      "endPos": 111.85185185185185
+    },
+    {
+      "time": 61.2962962962963,
+      "lane": 0,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 111.48148148148148
+    },
+    {
+      "kind": "line",
+      "beat": 166,
+      "isMeasure": false,
+      "time": 61.48148148148148,
+      "pos": 111.85185185185185
+    },
+    {
+      "time": 61.48148148148148,
+      "lane": 0,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 111.85185185185185
+    },
+    {
+      "time": 61.666666666666664,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.18518518518519045,
+      "pos": 112.22222222222221,
+      "endPos": 112.5925925925926
+    },
+    {
+      "time": 61.666666666666664,
+      "lane": 5,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 112.22222222222221
+    },
+    {
+      "kind": "line",
+      "beat": 167,
+      "isMeasure": false,
+      "time": 61.851851851851855,
+      "pos": 112.5925925925926
+    },
+    {
+      "time": 61.851851851851855,
+      "lane": 5,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 112.5925925925926
+    },
+    {
+      "kind": "line",
+      "beat": 168,
+      "isMeasure": true,
+      "time": 62.22222222222222,
+      "pos": 113.33333333333333
+    },
+    {
+      "time": 62.22222222222222,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 113.33333333333333
+    },
+    {
+      "kind": "line",
+      "beat": 169,
+      "isMeasure": false,
+      "time": 62.592592592592595,
+      "pos": 114.07407407407408
+    },
+    {
+      "time": 62.77777777777778,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 114.44444444444444
+    },
+    {
+      "kind": "line",
+      "beat": 170,
+      "isMeasure": false,
+      "time": 62.96296296296296,
+      "pos": 114.81481481481481
+    },
+    {
+      "kind": "line",
+      "beat": 171,
+      "isMeasure": false,
+      "time": 63.333333333333336,
+      "pos": 115.55555555555556
+    },
+    {
+      "time": 63.51851851851852,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 115.92592592592592
+    },
+    {
+      "time": 63.51851851851852,
+      "lane": 0,
+      "endLane": 0,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 115.92592592592592
+    },
+    {
+      "time": 63.611111111111114,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 116.11111111111111
+    },
+    {
+      "kind": "line",
+      "beat": 172,
+      "isMeasure": true,
+      "time": 63.7037037037037,
+      "pos": 116.29629629629629
+    },
+    {
+      "time": 63.7037037037037,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 116.29629629629629
+    },
+    {
+      "time": 63.7962962962963,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 116.48148148148148
+    },
+    {
+      "time": 63.888888888888886,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 116.66666666666666
+    },
+    {
+      "time": 63.98148148148148,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 116.85185185185185
+    },
+    {
+      "kind": "line",
+      "beat": 173,
+      "isMeasure": false,
+      "time": 64.07407407407408,
+      "pos": 117.03703703703704
+    },
+    {
+      "time": 64.07407407407408,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 117.03703703703704
+    },
+    {
+      "kind": "line",
+      "beat": 174,
+      "isMeasure": false,
+      "time": 64.44444444444444,
+      "pos": 117.77777777777777
+    },
+    {
+      "time": 64.62962962962963,
+      "lane": 1,
+      "endLane": 0,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.18518518518517624,
+      "pos": 118.14814814814815,
+      "endPos": 118.5185185185185
+    },
+    {
+      "time": 64.62962962962963,
+      "lane": 1,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 118.14814814814815
+    },
+    {
+      "kind": "line",
+      "beat": 175,
+      "isMeasure": false,
+      "time": 64.81481481481481,
+      "pos": 118.5185185185185
+    },
+    {
+      "time": 64.81481481481481,
+      "lane": 0,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 118.5185185185185
+    },
+    {
+      "kind": "line",
+      "beat": 176,
+      "isMeasure": true,
+      "time": 65.18518518518519,
+      "pos": 119.25925925925927
+    },
+    {
+      "kind": "line",
+      "beat": 177,
+      "isMeasure": false,
+      "time": 65.55555555555556,
+      "pos": 120
+    },
+    {
+      "time": 65.74074074074075,
+      "lane": 0,
+      "endLane": 0,
+      "width": 3,
+      "kind": "slider_left",
+      "direction": "right",
+      "duration": 0,
+      "pos": 120.37037037037038
+    },
+    {
+      "kind": "line",
+      "beat": 178,
+      "isMeasure": false,
+      "time": 65.92592592592592,
+      "pos": 120.74074074074073
+    },
+    {
+      "kind": "line",
+      "beat": 179,
+      "isMeasure": false,
+      "time": 66.29629629629629,
+      "pos": 121.48148148148147
+    },
+    {
+      "kind": "line",
+      "beat": 180,
+      "isMeasure": true,
+      "time": 66.66666666666667,
+      "pos": 122.22222222222223
+    },
+    {
+      "time": 66.85185185185185,
+      "lane": 3,
+      "endLane": 3,
+      "width": 3,
+      "kind": "slider_right",
+      "direction": "left",
+      "duration": 0,
+      "pos": 122.59259259259258
+    },
+    {
+      "kind": "line",
+      "beat": 181,
+      "isMeasure": false,
+      "time": 67.03703703703704,
+      "pos": 122.96296296296296
+    },
+    {
+      "kind": "line",
+      "beat": 182,
+      "isMeasure": false,
+      "time": 67.4074074074074,
+      "pos": 123.7037037037037
+    },
+    {
+      "time": 67.5925925925926,
+      "lane": 4,
+      "endLane": 3,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.18518518518517624,
+      "pos": 124.07407407407408,
+      "endPos": 124.44444444444443
+    },
+    {
+      "time": 67.5925925925926,
+      "lane": 4,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 124.07407407407408
+    },
+    {
+      "kind": "line",
+      "beat": 183,
+      "isMeasure": false,
+      "time": 67.77777777777777,
+      "pos": 124.44444444444443
+    },
+    {
+      "time": 67.77777777777777,
+      "lane": 3,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 124.44444444444443
+    },
+    {
+      "kind": "line",
+      "beat": 184,
+      "isMeasure": true,
+      "time": 68.14814814814815,
+      "pos": 125.18518518518519
+    },
+    {
+      "kind": "line",
+      "beat": 185,
+      "isMeasure": false,
+      "time": 68.51851851851852,
+      "pos": 125.92592592592592
+    },
+    {
+      "kind": "line",
+      "beat": 186,
+      "isMeasure": false,
+      "time": 68.88888888888889,
+      "pos": 126.66666666666666
+    },
+    {
+      "time": 69.07407407407408,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 127.03703703703704
+    },
+    {
+      "kind": "speed",
+      "time": 69.07407407407408,
+      "ratio": 1.5,
+      "pos": 127.03703703703704
+    },
+    {
+      "kind": "line",
+      "beat": 187,
+      "isMeasure": false,
+      "time": 69.25925925925925,
+      "pos": 127.31481481481481
+    },
+    {
+      "kind": "line",
+      "beat": 188,
+      "isMeasure": true,
+      "time": 69.62962962962963,
+      "pos": 127.87037037037038
+    },
+    {
+      "time": 69.81481481481481,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 128.14814814814815
+    },
+    {
+      "kind": "line",
+      "beat": 189,
+      "isMeasure": false,
+      "time": 70,
+      "pos": 128.42592592592592
+    },
+    {
+      "kind": "line",
+      "beat": 190,
+      "isMeasure": false,
+      "time": 70.37037037037037,
+      "pos": 128.98148148148147
+    },
+    {
+      "kind": "line",
+      "beat": 191,
+      "isMeasure": false,
+      "time": 70.74074074074075,
+      "pos": 129.53703703703704
+    },
+    {
+      "time": 70.74074074074075,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 129.53703703703704
+    },
+    {
+      "kind": "line",
+      "beat": 192,
+      "isMeasure": true,
+      "time": 71.11111111111111,
+      "pos": 130.0925925925926
+    },
+    {
+      "time": 71.11111111111111,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 130.0925925925926
+    },
+    {
+      "kind": "speed",
+      "time": 71.11111111111111,
+      "ratio": 2,
+      "pos": 130.0925925925926
+    },
+    {
+      "kind": "line",
+      "beat": 193,
+      "isMeasure": false,
+      "time": 71.48148148148148,
+      "pos": 130.83333333333334
+    },
+    {
+      "time": 71.66666666666667,
+      "lane": 0,
+      "endLane": 0,
+      "width": 3,
+      "kind": "slider_left",
+      "direction": "left",
+      "duration": 0,
+      "pos": 131.20370370370372
+    },
+    {
+      "kind": "line",
+      "beat": 194,
+      "isMeasure": false,
+      "time": 71.85185185185185,
+      "pos": 131.57407407407408
+    },
+    {
+      "time": 72.03703703703704,
+      "lane": 3,
+      "endLane": 3,
+      "width": 3,
+      "kind": "slider_right",
+      "direction": "right",
+      "duration": 0,
+      "pos": 131.94444444444446
+    },
+    {
+      "kind": "line",
+      "beat": 195,
+      "isMeasure": false,
+      "time": 72.22222222222223,
+      "pos": 132.31481481481484
+    },
+    {
+      "time": 72.4074074074074,
+      "lane": 0,
+      "endLane": 0,
+      "width": 3,
+      "kind": "slider_left",
+      "direction": "right",
+      "duration": 0,
+      "pos": 132.6851851851852
+    },
+    {
+      "kind": "line",
+      "beat": 196,
+      "isMeasure": true,
+      "time": 72.5925925925926,
+      "pos": 133.05555555555557
+    },
+    {
+      "time": 72.77777777777777,
+      "lane": 3,
+      "endLane": 3,
+      "width": 3,
+      "kind": "slider_right",
+      "direction": "left",
+      "duration": 0,
+      "pos": 133.42592592592592
+    },
+    {
+      "kind": "line",
+      "beat": 197,
+      "isMeasure": false,
+      "time": 72.96296296296296,
+      "pos": 133.7962962962963
+    },
+    {
+      "time": 73.14814814814815,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 134.16666666666669
+    },
+    {
+      "kind": "line",
+      "beat": 198,
+      "isMeasure": false,
+      "time": 73.33333333333333,
+      "pos": 134.53703703703704
+    },
+    {
+      "kind": "line",
+      "beat": 199,
+      "isMeasure": false,
+      "time": 73.70370370370371,
+      "pos": 135.2777777777778
+    },
+    {
+      "time": 73.70370370370371,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 135.2777777777778
+    },
+    {
+      "kind": "line",
+      "beat": 200,
+      "isMeasure": true,
+      "time": 74.07407407407408,
+      "pos": 136.01851851851853
+    },
+    {
+      "time": 74.07407407407408,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 136.01851851851853
+    },
+    {
+      "kind": "line",
+      "beat": 201,
+      "isMeasure": false,
+      "time": 74.44444444444444,
+      "pos": 136.75925925925927
+    },
+    {
+      "time": 74.62962962962963,
+      "lane": 1,
+      "endLane": 2,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.3703703703703667,
+      "pos": 137.12962962962965,
+      "endPos": 137.87037037037038
+    },
+    {
+      "time": 74.62962962962963,
+      "lane": 4,
+      "endLane": 3,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.3703703703703667,
+      "pos": 137.12962962962965,
+      "endPos": 137.87037037037038
+    },
+    {
+      "time": 74.62962962962963,
+      "lane": 1,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 137.12962962962965
+    },
+    {
+      "time": 74.62962962962963,
+      "lane": 4,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 137.12962962962965
+    },
+    {
+      "kind": "line",
+      "beat": 202,
+      "isMeasure": false,
+      "time": 74.81481481481481,
+      "pos": 137.5
+    },
+    {
+      "time": 74.81481481481481,
+      "lane": 1.5,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 137.5
+    },
+    {
+      "time": 74.81481481481481,
+      "lane": 3.5,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 137.5
+    },
+    {
+      "time": 75,
+      "lane": 2,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 137.87037037037038
+    },
+    {
+      "time": 75,
+      "lane": 3,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 137.87037037037038
+    },
+    {
+      "kind": "line",
+      "beat": 203,
+      "isMeasure": false,
+      "time": 75.18518518518519,
+      "pos": 138.24074074074076
+    },
+    {
+      "time": 75.37037037037037,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 138.61111111111111
+    },
+    {
+      "kind": "line",
+      "beat": 204,
+      "isMeasure": true,
+      "time": 75.55555555555556,
+      "pos": 138.9814814814815
+    },
+    {
+      "kind": "line",
+      "beat": 205,
+      "isMeasure": false,
+      "time": 75.92592592592592,
+      "pos": 139.72222222222223
+    },
+    {
+      "time": 76.11111111111111,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 140.0925925925926
+    },
+    {
+      "kind": "line",
+      "beat": 206,
+      "isMeasure": false,
+      "time": 76.29629629629629,
+      "pos": 140.46296296296296
+    },
+    {
+      "kind": "line",
+      "beat": 207,
+      "isMeasure": false,
+      "time": 76.66666666666667,
+      "pos": 141.20370370370372
+    },
+    {
+      "kind": "line",
+      "beat": 208,
+      "isMeasure": true,
+      "time": 77.03703703703704,
+      "pos": 141.94444444444446
+    },
+    {
+      "time": 77.03703703703704,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 141.94444444444446
+    },
+    {
+      "time": 77.03703703703704,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 141.94444444444446
+    },
+    {
+      "time": 77.12962962962963,
+      "lane": 1.5,
+      "endLane": 1.5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 142.12962962962965
+    },
+    {
+      "time": 77.12962962962963,
+      "lane": 3.5,
+      "endLane": 3.5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 142.12962962962965
+    },
+    {
+      "time": 77.22222222222223,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 142.31481481481484
+    },
+    {
+      "time": 77.22222222222223,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 142.31481481481484
+    },
+    {
+      "time": 77.31481481481481,
+      "lane": 1.5,
+      "endLane": 1.5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 142.5
+    },
+    {
+      "time": 77.31481481481481,
+      "lane": 3.5,
+      "endLane": 3.5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 142.5
+    },
+    {
+      "kind": "line",
+      "beat": 209,
+      "isMeasure": false,
+      "time": 77.4074074074074,
+      "pos": 142.6851851851852
+    },
+    {
+      "time": 77.4074074074074,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 142.6851851851852
+    },
+    {
+      "time": 77.4074074074074,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 142.6851851851852
+    },
+    {
+      "kind": "line",
+      "beat": 210,
+      "isMeasure": false,
+      "time": 77.77777777777777,
+      "pos": 143.42592592592592
+    },
+    {
+      "time": 77.77777777777777,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 143.42592592592592
+    },
+    {
+      "kind": "line",
+      "beat": 211,
+      "isMeasure": false,
+      "time": 78.14814814814815,
+      "pos": 144.16666666666669
+    },
+    {
+      "time": 78.14814814814815,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 144.16666666666669
+    },
+    {
+      "kind": "line",
+      "beat": 212,
+      "isMeasure": true,
+      "time": 78.51851851851852,
+      "pos": 144.90740740740742
+    },
+    {
+      "time": 78.51851851851852,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 144.90740740740742
+    },
+    {
+      "kind": "line",
+      "beat": 213,
+      "isMeasure": false,
+      "time": 78.88888888888889,
+      "pos": 145.64814814814815
+    },
+    {
+      "kind": "line",
+      "beat": 214,
+      "isMeasure": false,
+      "time": 79.25925925925925,
+      "pos": 146.38888888888889
+    },
+    {
+      "time": 79.44444444444444,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 146.75925925925927
+    },
+    {
+      "kind": "line",
+      "beat": 215,
+      "isMeasure": false,
+      "time": 79.62962962962963,
+      "pos": 147.12962962962965
+    },
+    {
+      "kind": "line",
+      "beat": 216,
+      "isMeasure": true,
+      "time": 80,
+      "pos": 147.87037037037038
+    },
+    {
+      "time": 80,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 147.87037037037038
+    },
+    {
+      "kind": "line",
+      "beat": 217,
+      "isMeasure": false,
+      "time": 80.37037037037037,
+      "pos": 148.61111111111111
+    },
+    {
+      "time": 80.37037037037037,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 148.61111111111111
+    },
+    {
+      "kind": "line",
+      "beat": 218,
+      "isMeasure": false,
+      "time": 80.74074074074075,
+      "pos": 149.35185185185188
+    },
+    {
+      "time": 80.92592592592592,
+      "lane": 0,
+      "endLane": 0,
+      "width": 6,
+      "kind": "slider_full",
+      "direction": "left",
+      "duration": 0,
+      "pos": 149.72222222222223
+    },
+    {
+      "kind": "line",
+      "beat": 219,
+      "isMeasure": false,
+      "time": 81.11111111111111,
+      "pos": 150.0925925925926
+    },
+    {
+      "kind": "line",
+      "beat": 220,
+      "isMeasure": true,
+      "time": 81.48148148148148,
+      "pos": 150.83333333333334
+    },
+    {
+      "time": 81.66666666666667,
+      "lane": 0,
+      "endLane": 0,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 151.20370370370372
+    },
+    {
+      "kind": "line",
+      "beat": 221,
+      "isMeasure": false,
+      "time": 81.85185185185185,
+      "pos": 151.57407407407408
+    },
+    {
+      "kind": "line",
+      "beat": 222,
+      "isMeasure": false,
+      "time": 82.22222222222223,
+      "pos": 152.31481481481484
+    },
+    {
+      "time": 82.4074074074074,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 152.6851851851852
+    },
+    {
+      "kind": "line",
+      "beat": 223,
+      "isMeasure": false,
+      "time": 82.5925925925926,
+      "pos": 153.05555555555557
+    },
+    {
+      "kind": "line",
+      "beat": 224,
+      "isMeasure": true,
+      "time": 82.96296296296296,
+      "pos": 153.7962962962963
+    },
+    {
+      "time": 83.14814814814815,
+      "lane": 0,
+      "endLane": 0,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 154.16666666666669
+    },
+    {
+      "kind": "line",
+      "beat": 225,
+      "isMeasure": false,
+      "time": 83.33333333333333,
+      "pos": 154.53703703703704
+    },
+    {
+      "time": 83.51851851851852,
+      "lane": 0,
+      "endLane": 0,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 154.90740740740742
+    },
+    {
+      "kind": "line",
+      "beat": 226,
+      "isMeasure": false,
+      "time": 83.70370370370371,
+      "pos": 155.2777777777778
+    },
+    {
+      "time": 83.88888888888889,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 155.64814814814815
+    },
+    {
+      "kind": "line",
+      "beat": 227,
+      "isMeasure": false,
+      "time": 84.07407407407408,
+      "pos": 156.01851851851853
+    },
+    {
+      "time": 84.25925925925925,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 156.38888888888889
+    },
+    {
+      "kind": "line",
+      "beat": 228,
+      "isMeasure": true,
+      "time": 84.44444444444444,
+      "pos": 156.75925925925927
+    },
+    {
+      "time": 84.62962962962963,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 157.12962962962965
+    },
+    {
+      "kind": "line",
+      "beat": 229,
+      "isMeasure": false,
+      "time": 84.81481481481481,
+      "pos": 157.5
+    },
+    {
+      "time": 85,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 157.87037037037038
+    },
+    {
+      "kind": "line",
+      "beat": 230,
+      "isMeasure": false,
+      "time": 85.18518518518519,
+      "pos": 158.24074074074076
+    },
+    {
+      "time": 85.18518518518519,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 158.24074074074076
+    },
+    {
+      "kind": "line",
+      "beat": 231,
+      "isMeasure": false,
+      "time": 85.55555555555556,
+      "pos": 158.9814814814815
+    },
+    {
+      "time": 85.55555555555556,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 158.9814814814815
+    },
+    {
+      "kind": "line",
+      "beat": 232,
+      "isMeasure": true,
+      "time": 85.92592592592592,
+      "pos": 159.72222222222223
+    },
+    {
+      "kind": "line",
+      "beat": 233,
+      "isMeasure": false,
+      "time": 86.29629629629629,
+      "pos": 160.46296296296296
+    },
+    {
+      "time": 86.48148148148148,
+      "lane": 0,
+      "endLane": 0,
+      "width": 3,
+      "kind": "slider_left",
+      "direction": "left",
+      "duration": 0,
+      "pos": 160.83333333333334
+    },
+    {
+      "time": 86.48148148148148,
+      "lane": 3,
+      "endLane": 3,
+      "width": 3,
+      "kind": "slider_right",
+      "direction": "right",
+      "duration": 0,
+      "pos": 160.83333333333334
+    },
+    {
+      "kind": "speed",
+      "time": 86.48148148148148,
+      "ratio": 2,
+      "pos": 160.83333333333334
+    },
+    {
+      "kind": "line",
+      "beat": 234,
+      "isMeasure": false,
+      "time": 86.66666666666667,
+      "pos": 161.20370370370372
+    },
+    {
+      "kind": "line",
+      "beat": 235,
+      "isMeasure": false,
+      "time": 87.03703703703704,
+      "pos": 161.94444444444446
+    },
+    {
+      "time": 87.22222222222223,
+      "lane": 0,
+      "endLane": 0,
+      "width": 3,
+      "kind": "slider_left",
+      "direction": "right",
+      "duration": 0,
+      "pos": 162.31481481481484
+    },
+    {
+      "time": 87.22222222222223,
+      "lane": 3,
+      "endLane": 3,
+      "width": 3,
+      "kind": "slider_right",
+      "direction": "left",
+      "duration": 0,
+      "pos": 162.31481481481484
+    },
+    {
+      "kind": "line",
+      "beat": 236,
+      "isMeasure": true,
+      "time": 87.4074074074074,
+      "pos": 162.6851851851852
+    },
+    {
+      "kind": "line",
+      "beat": 237,
+      "isMeasure": false,
+      "time": 87.77777777777777,
+      "pos": 163.42592592592592
+    },
+    {
+      "time": 87.96296296296296,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 163.7962962962963
+    },
+    {
+      "kind": "line",
+      "beat": 238,
+      "isMeasure": false,
+      "time": 88.14814814814815,
+      "pos": 164.16666666666669
+    },
+    {
+      "kind": "line",
+      "beat": 239,
+      "isMeasure": false,
+      "time": 88.51851851851852,
+      "pos": 164.90740740740742
+    },
+    {
+      "time": 88.70370370370371,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 165.2777777777778
+    },
+    {
+      "kind": "line",
+      "beat": 240,
+      "isMeasure": true,
+      "time": 88.88888888888889,
+      "pos": 165.64814814814815
+    },
+    {
+      "kind": "line",
+      "beat": 241,
+      "isMeasure": false,
+      "time": 89.25925925925925,
+      "pos": 166.38888888888889
+    },
+    {
+      "kind": "speed",
+      "time": 89.25925925925925,
+      "ratio": 2,
+      "pos": 166.38888888888889
+    },
+    {
+      "kind": "line",
+      "beat": 242,
+      "isMeasure": false,
+      "time": 89.62962962962963,
+      "pos": 167.12962962962965
+    },
+    {
+      "kind": "line",
+      "beat": 243,
+      "isMeasure": false,
+      "time": 90,
+      "pos": 167.87037037037038
+    },
+    {
+      "time": 90.27777777777777,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.6481481481481524,
+      "pos": 168.42592592592592,
+      "endPos": 169.72222222222223
+    },
+    {
+      "time": 90.27777777777777,
+      "lane": 1,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 168.42592592592592
+    },
+    {
+      "kind": "line",
+      "beat": 244,
+      "isMeasure": true,
+      "time": 90.37037037037037,
+      "pos": 168.61111111111111
+    },
+    {
+      "time": 90.46296296296295,
+      "lane": 1,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 168.79629629629628
+    },
+    {
+      "time": 90.64814814814814,
+      "lane": 1,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 169.16666666666666
+    },
+    {
+      "kind": "line",
+      "beat": 245,
+      "isMeasure": false,
+      "time": 90.74074074074075,
+      "pos": 169.35185185185188
+    },
+    {
+      "time": 90.83333333333333,
+      "lane": 1,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 169.53703703703704
+    },
+    {
+      "time": 90.92592592592592,
+      "lane": 1,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 169.72222222222223
+    },
+    {
+      "kind": "line",
+      "beat": 246,
+      "isMeasure": false,
+      "time": 91.11111111111111,
+      "pos": 170.0925925925926
+    },
+    {
+      "kind": "line",
+      "beat": 247,
+      "isMeasure": false,
+      "time": 91.48148148148148,
+      "pos": 170.83333333333334
+    },
+    {
+      "time": 91.75925925925925,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.6481481481481524,
+      "pos": 171.38888888888889,
+      "endPos": 172.6851851851852
+    },
+    {
+      "time": 91.75925925925925,
+      "lane": 4,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 171.38888888888889
+    },
+    {
+      "kind": "line",
+      "beat": 248,
+      "isMeasure": true,
+      "time": 91.85185185185185,
+      "pos": 171.57407407407408
+    },
+    {
+      "time": 91.94444444444443,
+      "lane": 4,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 171.75925925925924
+    },
+    {
+      "time": 92.12962962962962,
+      "lane": 4,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 172.12962962962962
+    },
+    {
+      "kind": "line",
+      "beat": 249,
+      "isMeasure": false,
+      "time": 92.22222222222223,
+      "pos": 172.31481481481484
+    },
+    {
+      "time": 92.31481481481481,
+      "lane": 4,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 172.5
+    },
+    {
+      "time": 92.4074074074074,
+      "lane": 3,
+      "endLane": 5,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.7407407407407476,
+      "pos": 172.6851851851852,
+      "endPos": 174.16666666666669
+    },
+    {
+      "time": 92.4074074074074,
+      "lane": 4,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 172.6851851851852
+    },
+    {
+      "time": 92.4074074074074,
+      "lane": 3,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 172.6851851851852
+    },
+    {
+      "kind": "speed",
+      "time": 92.4074074074074,
+      "ratio": 2,
+      "pos": 172.6851851851852
+    },
+    {
+      "kind": "line",
+      "beat": 250,
+      "isMeasure": false,
+      "time": 92.5925925925926,
+      "pos": 173.05555555555557
+    },
+    {
+      "time": 92.5925925925926,
+      "lane": 3.5,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 173.05555555555557
+    },
+    {
+      "time": 92.77777777777777,
+      "lane": 4,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 173.42592592592592
+    },
+    {
+      "kind": "line",
+      "beat": 251,
+      "isMeasure": false,
+      "time": 92.96296296296296,
+      "pos": 173.7962962962963
+    },
+    {
+      "time": 92.96296296296296,
+      "lane": 4.5,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 173.7962962962963
+    },
+    {
+      "time": 93.14814814814815,
+      "lane": 2,
+      "endLane": 0,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.7407407407407334,
+      "pos": 174.16666666666669,
+      "endPos": 175.64814814814815
+    },
+    {
+      "time": 93.14814814814815,
+      "lane": 5,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 174.16666666666669
+    },
+    {
+      "time": 93.14814814814815,
+      "lane": 2,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 174.16666666666669
+    },
+    {
+      "kind": "line",
+      "beat": 252,
+      "isMeasure": true,
+      "time": 93.33333333333333,
+      "pos": 174.53703703703704
+    },
+    {
+      "time": 93.33333333333333,
+      "lane": 1.5,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 174.53703703703704
+    },
+    {
+      "time": 93.51851851851852,
+      "lane": 1,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 174.90740740740742
+    },
+    {
+      "kind": "line",
+      "beat": 253,
+      "isMeasure": false,
+      "time": 93.70370370370371,
+      "pos": 175.2777777777778
+    },
+    {
+      "time": 93.70370370370371,
+      "lane": 0.5,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 175.2777777777778
+    },
+    {
+      "time": 93.88888888888889,
+      "lane": 5,
+      "endLane": 3,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.7407407407407476,
+      "pos": 175.64814814814815,
+      "endPos": 177.12962962962965
+    },
+    {
+      "time": 93.88888888888889,
+      "lane": 0,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 175.64814814814815
+    },
+    {
+      "time": 93.88888888888889,
+      "lane": 5,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 175.64814814814815
+    },
+    {
+      "kind": "line",
+      "beat": 254,
+      "isMeasure": false,
+      "time": 94.07407407407408,
+      "pos": 176.01851851851853
+    },
+    {
+      "time": 94.07407407407408,
+      "lane": 4.5,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 176.01851851851853
+    },
+    {
+      "time": 94.25925925925925,
+      "lane": 4,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 176.38888888888889
+    },
+    {
+      "kind": "line",
+      "beat": 255,
+      "isMeasure": false,
+      "time": 94.44444444444444,
+      "pos": 176.75925925925927
+    },
+    {
+      "time": 94.44444444444444,
+      "lane": 3.5,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 176.75925925925927
+    },
+    {
+      "time": 94.62962962962963,
+      "lane": 0,
+      "endLane": 2,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.3703703703703667,
+      "pos": 177.12962962962965,
+      "endPos": 177.87037037037038
+    },
+    {
+      "time": 94.62962962962963,
+      "lane": 3,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 177.12962962962965
+    },
+    {
+      "time": 94.62962962962963,
+      "lane": 0,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 177.12962962962965
+    },
+    {
+      "kind": "line",
+      "beat": 256,
+      "isMeasure": true,
+      "time": 94.81481481481481,
+      "pos": 177.5
+    },
+    {
+      "time": 94.81481481481481,
+      "lane": 1,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 177.5
+    },
+    {
+      "time": 95,
+      "lane": 2,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 177.87037037037038
+    },
+    {
+      "kind": "line",
+      "beat": 257,
+      "isMeasure": false,
+      "time": 95.18518518518519,
+      "pos": 178.24074074074076
+    },
+    {
+      "time": 95.37037037037037,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 178.61111111111111
+    },
+    {
+      "kind": "speed",
+      "time": 95.37037037037037,
+      "ratio": 1.5,
+      "pos": 178.61111111111111
+    },
+    {
+      "kind": "line",
+      "beat": 258,
+      "isMeasure": false,
+      "time": 95.55555555555556,
+      "pos": 178.8888888888889
+    },
+    {
+      "kind": "line",
+      "beat": 259,
+      "isMeasure": false,
+      "time": 95.92592592592592,
+      "pos": 179.44444444444446
+    },
+    {
+      "kind": "line",
+      "beat": 260,
+      "isMeasure": true,
+      "time": 96.29629629629629,
+      "pos": 180
+    },
+    {
+      "time": 96.48148148148148,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 180.27777777777777
+    },
+    {
+      "kind": "line",
+      "beat": 261,
+      "isMeasure": false,
+      "time": 96.66666666666667,
+      "pos": 180.55555555555557
+    },
+    {
+      "time": 96.85185185185185,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 180.83333333333334
+    },
+    {
+      "kind": "line",
+      "beat": 262,
+      "isMeasure": false,
+      "time": 97.03703703703704,
+      "pos": 181.11111111111111
+    },
+    {
+      "kind": "line",
+      "beat": 263,
+      "isMeasure": false,
+      "time": 97.4074074074074,
+      "pos": 181.66666666666669
+    },
+    {
+      "time": 97.5925925925926,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 181.94444444444446
+    },
+    {
+      "kind": "speed",
+      "time": 97.5925925925926,
+      "ratio": 1.5,
+      "pos": 181.94444444444446
+    },
+    {
+      "kind": "line",
+      "beat": 264,
+      "isMeasure": true,
+      "time": 97.77777777777777,
+      "pos": 182.22222222222223
+    },
+    {
+      "time": 97.96296296296296,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 182.5
+    },
+    {
+      "kind": "speed",
+      "time": 97.96296296296296,
+      "ratio": 2,
+      "pos": 182.5
+    },
+    {
+      "kind": "line",
+      "beat": 265,
+      "isMeasure": false,
+      "time": 98.14814814814815,
+      "pos": 182.87037037037038
+    },
+    {
+      "kind": "line",
+      "beat": 266,
+      "isMeasure": false,
+      "time": 98.51851851851852,
+      "pos": 183.61111111111111
+    },
+    {
+      "time": 98.70370370370371,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 183.9814814814815
+    },
+    {
+      "kind": "line",
+      "beat": 267,
+      "isMeasure": false,
+      "time": 98.88888888888889,
+      "pos": 184.35185185185185
+    },
+    {
+      "kind": "line",
+      "beat": 268,
+      "isMeasure": true,
+      "time": 99.25925925925925,
+      "pos": 185.09259259259258
+    },
+    {
+      "kind": "line",
+      "beat": 269,
+      "isMeasure": false,
+      "time": 99.62962962962963,
+      "pos": 185.83333333333334
+    },
+    {
+      "time": 99.81481481481481,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 186.2037037037037
+    },
+    {
+      "kind": "line",
+      "beat": 270,
+      "isMeasure": false,
+      "time": 100,
+      "pos": 186.57407407407408
+    },
+    {
+      "kind": "line",
+      "beat": 271,
+      "isMeasure": false,
+      "time": 100.37037037037037,
+      "pos": 187.3148148148148
+    },
+    {
+      "time": 100.55555555555556,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 187.6851851851852
+    },
+    {
+      "kind": "line",
+      "beat": 272,
+      "isMeasure": true,
+      "time": 100.74074074074075,
+      "pos": 188.05555555555557
+    },
+    {
+      "kind": "line",
+      "beat": 273,
+      "isMeasure": false,
+      "time": 101.11111111111111,
+      "pos": 188.7962962962963
+    },
+    {
+      "time": 101.29629629629629,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 189.16666666666666
+    },
+    {
+      "kind": "speed",
+      "time": 101.29629629629629,
+      "ratio": 1.5,
+      "pos": 189.16666666666666
+    },
+    {
+      "kind": "line",
+      "beat": 274,
+      "isMeasure": false,
+      "time": 101.48148148148148,
+      "pos": 189.44444444444446
+    },
+    {
+      "kind": "line",
+      "beat": 275,
+      "isMeasure": false,
+      "time": 101.85185185185185,
+      "pos": 190
+    },
+    {
+      "time": 102.03703703703704,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 190.27777777777777
+    },
+    {
+      "kind": "line",
+      "beat": 276,
+      "isMeasure": true,
+      "time": 102.22222222222223,
+      "pos": 190.55555555555557
+    },
+    {
+      "kind": "line",
+      "beat": 277,
+      "isMeasure": false,
+      "time": 102.5925925925926,
+      "pos": 191.11111111111111
+    },
+    {
+      "time": 102.77777777777777,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 191.38888888888889
+    },
+    {
+      "kind": "line",
+      "beat": 278,
+      "isMeasure": false,
+      "time": 102.96296296296296,
+      "pos": 191.66666666666666
+    },
+    {
+      "kind": "line",
+      "beat": 279,
+      "isMeasure": false,
+      "time": 103.33333333333333,
+      "pos": 192.22222222222223
+    },
+    {
+      "time": 103.51851851851852,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 192.5
+    },
+    {
+      "kind": "line",
+      "beat": 280,
+      "isMeasure": true,
+      "time": 103.70370370370371,
+      "pos": 192.77777777777777
+    },
+    {
+      "kind": "line",
+      "beat": 281,
+      "isMeasure": false,
+      "time": 104.07407407407408,
+      "pos": 193.33333333333334
+    },
+    {
+      "time": 104.25925925925925,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 193.6111111111111
+    },
+    {
+      "kind": "speed",
+      "time": 104.25925925925925,
+      "ratio": 2,
+      "pos": 193.6111111111111
+    },
+    {
+      "kind": "line",
+      "beat": 282,
+      "isMeasure": false,
+      "time": 104.44444444444444,
+      "pos": 193.98148148148147
+    },
+    {
+      "kind": "line",
+      "beat": 283,
+      "isMeasure": false,
+      "time": 104.81481481481481,
+      "pos": 194.7222222222222
+    },
+    {
+      "kind": "line",
+      "beat": 284,
+      "isMeasure": true,
+      "time": 105.18518518518519,
+      "pos": 195.46296296296296
+    },
+    {
+      "time": 105.18518518518519,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 195.46296296296296
+    },
+    {
+      "kind": "line",
+      "beat": 285,
+      "isMeasure": false,
+      "time": 105.55555555555556,
+      "pos": 196.2037037037037
+    },
+    {
+      "kind": "line",
+      "beat": 286,
+      "isMeasure": false,
+      "time": 105.92592592592592,
+      "pos": 196.94444444444443
+    },
+    {
+      "time": 105.92592592592592,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 196.94444444444443
+    },
+    {
+      "kind": "line",
+      "beat": 287,
+      "isMeasure": false,
+      "time": 106.29629629629629,
+      "pos": 197.68518518518516
+    },
+    {
+      "time": 106.48148148148148,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 198.05555555555554
+    },
+    {
+      "kind": "line",
+      "beat": 288,
+      "isMeasure": true,
+      "time": 106.66666666666667,
+      "pos": 198.42592592592592
+    },
+    {
+      "kind": "line",
+      "beat": 289,
+      "isMeasure": false,
+      "time": 107.03703703703704,
+      "pos": 199.16666666666666
+    },
+    {
+      "time": 107.03703703703704,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 199.16666666666666
+    },
+    {
+      "time": 107.22222222222223,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 199.53703703703704
+    },
+    {
+      "kind": "speed",
+      "time": 107.31481481481481,
+      "ratio": 1.5,
+      "pos": 199.7222222222222
+    },
+    {
+      "kind": "line",
+      "beat": 290,
+      "isMeasure": false,
+      "time": 107.4074074074074,
+      "pos": 199.8611111111111
+    },
+    {
+      "kind": "line",
+      "beat": 291,
+      "isMeasure": false,
+      "time": 107.77777777777777,
+      "pos": 200.41666666666663
+    },
+    {
+      "kind": "line",
+      "beat": 292,
+      "isMeasure": true,
+      "time": 108.14814814814815,
+      "pos": 200.97222222222223
+    },
+    {
+      "kind": "line",
+      "beat": 293,
+      "isMeasure": false,
+      "time": 108.51851851851852,
+      "pos": 201.52777777777777
+    },
+    {
+      "time": 108.61111111111111,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 201.66666666666666
+    },
+    {
+      "time": 108.75,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 201.875
+    },
+    {
+      "time": 108.79629629629629,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 201.94444444444443
+    },
+    {
+      "kind": "line",
+      "beat": 294,
+      "isMeasure": false,
+      "time": 108.88888888888889,
+      "pos": 202.08333333333331
+    },
+    {
+      "time": 109.02777777777777,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 202.29166666666663
+    },
+    {
+      "time": 109.07407407407408,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 202.3611111111111
+    },
+    {
+      "kind": "line",
+      "beat": 295,
+      "isMeasure": false,
+      "time": 109.25925925925925,
+      "pos": 202.63888888888886
+    },
+    {
+      "time": 109.44444444444444,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 202.91666666666666
+    },
+    {
+      "kind": "line",
+      "beat": 296,
+      "isMeasure": true,
+      "time": 109.62962962962963,
+      "pos": 203.19444444444443
+    },
+    {
+      "kind": "line",
+      "beat": 297,
+      "isMeasure": false,
+      "time": 110,
+      "pos": 203.75
+    },
+    {
+      "time": 110.18518518518519,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 204.02777777777777
+    },
+    {
+      "kind": "speed",
+      "time": 110.18518518518519,
+      "ratio": 1,
+      "pos": 204.02777777777777
+    },
+    {
+      "kind": "line",
+      "beat": 298,
+      "isMeasure": false,
+      "time": 110.37037037037037,
+      "pos": 204.21296296296293
+    },
+    {
+      "kind": "line",
+      "beat": 299,
+      "isMeasure": false,
+      "time": 110.74074074074075,
+      "pos": 204.58333333333331
+    },
+    {
+      "time": 110.74074074074075,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 204.58333333333331
+    },
+    {
+      "time": 110.74074074074075,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 204.58333333333331
+    },
+    {
+      "kind": "line",
+      "beat": 300,
+      "isMeasure": true,
+      "time": 111.11111111111111,
+      "pos": 204.9537037037037
+    },
+    {
+      "time": 111.29629629629629,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 205.13888888888886
+    },
+    {
+      "time": 111.29629629629629,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 205.13888888888886
+    },
+    {
+      "kind": "line",
+      "beat": 301,
+      "isMeasure": false,
+      "time": 111.48148148148148,
+      "pos": 205.32407407407408
+    },
+    {
+      "kind": "line",
+      "beat": 302,
+      "isMeasure": false,
+      "time": 111.85185185185185,
+      "pos": 205.69444444444443
+    },
+    {
+      "time": 111.85185185185185,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 205.69444444444443
+    },
+    {
+      "time": 111.85185185185185,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 205.69444444444443
+    },
+    {
+      "kind": "line",
+      "beat": 303,
+      "isMeasure": false,
+      "time": 112.22222222222223,
+      "pos": 206.0648148148148
+    },
+    {
+      "time": 112.4074074074074,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 206.25
+    },
+    {
+      "kind": "line",
+      "beat": 304,
+      "isMeasure": true,
+      "time": 112.5925925925926,
+      "pos": 206.43518518518516
+    },
+    {
+      "time": 112.5925925925926,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 206.43518518518516
+    },
+    {
+      "time": 112.77777777777777,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 206.62037037037035
+    },
+    {
+      "kind": "line",
+      "beat": 305,
+      "isMeasure": false,
+      "time": 112.96296296296296,
+      "pos": 206.80555555555554
+    },
+    {
+      "time": 113.14814814814815,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 206.99074074074073
+    },
+    {
+      "kind": "line",
+      "beat": 306,
+      "isMeasure": false,
+      "time": 113.33333333333333,
+      "pos": 207.17592592592592
+    },
+    {
+      "kind": "line",
+      "beat": 307,
+      "isMeasure": false,
+      "time": 113.70370370370371,
+      "pos": 207.5462962962963
+    },
+    {
+      "kind": "line",
+      "beat": 308,
+      "isMeasure": true,
+      "time": 114.07407407407408,
+      "pos": 207.91666666666666
+    },
+    {
+      "time": 114.07407407407408,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 207.91666666666666
+    },
+    {
+      "kind": "line",
+      "beat": 309,
+      "isMeasure": false,
+      "time": 114.44444444444444,
+      "pos": 208.287037037037
+    },
+    {
+      "kind": "line",
+      "beat": 310,
+      "isMeasure": false,
+      "time": 114.81481481481481,
+      "pos": 208.6574074074074
+    },
+    {
+      "time": 114.81481481481481,
+      "lane": 4,
+      "endLane": 0,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.925925925925938,
+      "pos": 208.6574074074074,
+      "endPos": 209.58333333333331
+    },
+    {
+      "time": 114.81481481481481,
+      "lane": 4,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 208.6574074074074
+    },
+    {
+      "time": 115,
+      "lane": 3.2,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 208.84259259259258
+    },
+    {
+      "kind": "line",
+      "beat": 311,
+      "isMeasure": false,
+      "time": 115.18518518518519,
+      "pos": 209.02777777777777
+    },
+    {
+      "time": 115.18518518518519,
+      "lane": 2.4,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 209.02777777777777
+    },
+    {
+      "time": 115.37037037037037,
+      "lane": 1.6,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 209.21296296296293
+    },
+    {
+      "kind": "line",
+      "beat": 312,
+      "isMeasure": true,
+      "time": 115.55555555555556,
+      "pos": 209.39814814814815
+    },
+    {
+      "time": 115.55555555555556,
+      "lane": 0.7999999999999998,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 209.39814814814815
+    },
+    {
+      "time": 115.74074074074075,
+      "lane": 0,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 209.58333333333331
+    },
+    {
+      "kind": "line",
+      "beat": 313,
+      "isMeasure": false,
+      "time": 115.92592592592592,
+      "pos": 209.7685185185185
+    },
+    {
+      "time": 116.11111111111111,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 209.9537037037037
+    },
+    {
+      "kind": "line",
+      "beat": 314,
+      "isMeasure": false,
+      "time": 116.29629629629629,
+      "pos": 210.13888888888886
+    },
+    {
+      "kind": "line",
+      "beat": 315,
+      "isMeasure": false,
+      "time": 116.66666666666667,
+      "pos": 210.50925925925924
+    },
+    {
+      "time": 116.66666666666667,
+      "lane": 0,
+      "endLane": 0,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 210.50925925925924
+    },
+    {
+      "kind": "line",
+      "beat": 316,
+      "isMeasure": true,
+      "time": 117.03703703703704,
+      "pos": 210.87962962962962
+    },
+    {
+      "kind": "line",
+      "beat": 317,
+      "isMeasure": false,
+      "time": 117.4074074074074,
+      "pos": 211.25
+    },
+    {
+      "time": 117.5925925925926,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 211.43518518518516
+    },
+    {
+      "kind": "line",
+      "beat": 318,
+      "isMeasure": false,
+      "time": 117.77777777777777,
+      "pos": 211.62037037037035
+    },
+    {
+      "kind": "line",
+      "beat": 319,
+      "isMeasure": false,
+      "time": 118.14814814814815,
+      "pos": 211.99074074074073
+    },
+    {
+      "time": 118.14814814814815,
+      "lane": 0,
+      "endLane": 0,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 211.99074074074073
+    },
+    {
+      "kind": "line",
+      "beat": 320,
+      "isMeasure": true,
+      "time": 118.51851851851852,
+      "pos": 212.3611111111111
+    },
+    {
+      "kind": "line",
+      "beat": 321,
+      "isMeasure": false,
+      "time": 118.88888888888889,
+      "pos": 212.73148148148147
+    },
+    {
+      "time": 118.88888888888889,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 212.73148148148147
+    },
+    {
+      "time": 119.07407407407408,
+      "lane": 0,
+      "endLane": 0,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 212.91666666666666
+    },
+    {
+      "kind": "line",
+      "beat": 322,
+      "isMeasure": false,
+      "time": 119.25925925925925,
+      "pos": 213.10185185185185
+    },
+    {
+      "time": 119.25925925925925,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 213.10185185185185
+    },
+    {
+      "time": 119.44444444444444,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 213.287037037037
+    },
+    {
+      "kind": "line",
+      "beat": 323,
+      "isMeasure": false,
+      "time": 119.62962962962963,
+      "pos": 213.47222222222223
+    },
+    {
+      "time": 119.62962962962963,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 213.47222222222223
+    },
+    {
+      "time": 119.81481481481481,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 213.6574074074074
+    },
+    {
+      "kind": "line",
+      "beat": 324,
+      "isMeasure": true,
+      "time": 120,
+      "pos": 213.84259259259258
+    },
+    {
+      "kind": "line",
+      "beat": 325,
+      "isMeasure": false,
+      "time": 120.37037037037037,
+      "pos": 214.21296296296293
+    },
+    {
+      "time": 120.37037037037037,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 214.21296296296293
+    },
+    {
+      "kind": "speed",
+      "time": 120.37037037037037,
+      "ratio": 0.5,
+      "pos": 214.21296296296293
+    },
+    {
+      "time": 120.41666666666667,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 214.2361111111111
+    },
+    {
+      "time": 120.43209876543207,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 214.2438271604938
+    },
+    {
+      "time": 120.46296296296296,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 214.25925925925924
+    },
+    {
+      "time": 120.49382716049382,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 214.27469135802465
+    },
+    {
+      "time": 120.55555555555556,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 214.30555555555554
+    },
+    {
+      "time": 120.60185185185185,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 214.32870370370367
+    },
+    {
+      "kind": "speed",
+      "time": 120.60185185185185,
+      "ratio": 1,
+      "pos": 214.32870370370367
+    },
+    {
+      "time": 120.64814814814815,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 214.37499999999997
+    },
+    {
+      "time": 120.67901234567901,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 214.40586419753083
+    },
+    {
+      "kind": "line",
+      "beat": 326,
+      "isMeasure": false,
+      "time": 120.74074074074075,
+      "pos": 214.46759259259255
+    },
+    {
+      "time": 120.74074074074075,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 214.46759259259255
+    },
+    {
+      "time": 120.80246913580244,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 214.52932098765427
+    },
+    {
+      "time": 120.83333333333333,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 214.56018518518516
+    },
+    {
+      "kind": "speed",
+      "time": 120.83333333333333,
+      "ratio": 1.5,
+      "pos": 214.56018518518516
+    },
+    {
+      "time": 120.92592592592592,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 214.69907407407405
+    },
+    {
+      "time": 121.01851851851852,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 214.83796296296293
+    },
+    {
+      "kind": "line",
+      "beat": 327,
+      "isMeasure": false,
+      "time": 121.11111111111111,
+      "pos": 214.97685185185185
+    },
+    {
+      "time": 121.11111111111111,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 214.97685185185185
+    },
+    {
+      "kind": "speed",
+      "time": 121.11111111111111,
+      "ratio": 2,
+      "pos": 214.97685185185185
+    },
+    {
+      "time": 121.20370370370371,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 215.16203703703704
+    },
+    {
+      "time": 121.29629629629629,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 215.3472222222222
+    },
+    {
+      "time": 121.38888888888889,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 215.5324074074074
+    },
+    {
+      "kind": "speed",
+      "time": 121.38888888888889,
+      "ratio": 3,
+      "pos": 215.5324074074074
+    },
+    {
+      "kind": "line",
+      "beat": 328,
+      "isMeasure": true,
+      "time": 121.48148148148148,
+      "pos": 215.81018518518516
+    },
+    {
+      "time": 121.48148148148148,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 215.81018518518516
+    },
+    {
+      "time": 121.57407407407408,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 216.08796296296296
+    },
+    {
+      "kind": "speed",
+      "time": 121.57407407407408,
+      "ratio": 4,
+      "pos": 216.08796296296296
+    },
+    {
+      "time": 121.66666666666667,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 216.45833333333334
+    },
+    {
+      "kind": "speed",
+      "time": 121.66666666666667,
+      "ratio": 2,
+      "pos": 216.45833333333334
+    },
+    {
+      "kind": "line",
+      "beat": 329,
+      "isMeasure": false,
+      "time": 121.85185185185185,
+      "pos": 216.8287037037037
+    },
+    {
+      "time": 121.85185185185185,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 216.8287037037037
+    },
+    {
+      "time": 122.03703703703704,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 217.19907407407408
+    },
+    {
+      "kind": "speed",
+      "time": 122.03703703703704,
+      "ratio": 2,
+      "pos": 217.19907407407408
+    },
+    {
+      "kind": "line",
+      "beat": 330,
+      "isMeasure": false,
+      "time": 122.22222222222223,
+      "pos": 217.56944444444446
+    },
+    {
+      "kind": "line",
+      "beat": 331,
+      "isMeasure": false,
+      "time": 122.5925925925926,
+      "pos": 218.3101851851852
+    },
+    {
+      "time": 122.77777777777777,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 218.68055555555554
+    },
+    {
+      "kind": "line",
+      "beat": 332,
+      "isMeasure": true,
+      "time": 122.96296296296296,
+      "pos": 219.05092592592592
+    },
+    {
+      "kind": "line",
+      "beat": 333,
+      "isMeasure": false,
+      "time": 123.33333333333333,
+      "pos": 219.79166666666666
+    },
+    {
+      "time": 123.51851851851852,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 220.16203703703704
+    },
+    {
+      "kind": "line",
+      "beat": 334,
+      "isMeasure": false,
+      "time": 123.70370370370371,
+      "pos": 220.53240740740742
+    },
+    {
+      "kind": "line",
+      "beat": 335,
+      "isMeasure": false,
+      "time": 124.07407407407408,
+      "pos": 221.27314814814815
+    },
+    {
+      "time": 124.25925925925925,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 221.6435185185185
+    },
+    {
+      "kind": "line",
+      "beat": 336,
+      "isMeasure": true,
+      "time": 124.44444444444444,
+      "pos": 222.01388888888889
+    },
+    {
+      "time": 124.62962962962963,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 222.38425925925927
+    },
+    {
+      "kind": "line",
+      "beat": 337,
+      "isMeasure": false,
+      "time": 124.81481481481481,
+      "pos": 222.75462962962962
+    },
+    {
+      "time": 125,
+      "lane": 0,
+      "endLane": 0,
+      "width": 3,
+      "kind": "slider_left",
+      "direction": "left",
+      "duration": 0,
+      "pos": 223.125
+    },
+    {
+      "kind": "line",
+      "beat": 338,
+      "isMeasure": false,
+      "time": 125.18518518518519,
+      "pos": 223.49537037037038
+    },
+    {
+      "time": 125.37037037037037,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 223.86574074074073
+    },
+    {
+      "kind": "line",
+      "beat": 339,
+      "isMeasure": false,
+      "time": 125.55555555555556,
+      "pos": 224.23611111111111
+    },
+    {
+      "kind": "line",
+      "beat": 340,
+      "isMeasure": true,
+      "time": 125.92592592592592,
+      "pos": 224.97685185185185
+    },
+    {
+      "time": 126.11111111111111,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 225.34722222222223
+    },
+    {
+      "kind": "line",
+      "beat": 341,
+      "isMeasure": false,
+      "time": 126.29629629629629,
+      "pos": 225.71759259259258
+    },
+    {
+      "kind": "line",
+      "beat": 342,
+      "isMeasure": false,
+      "time": 126.66666666666667,
+      "pos": 226.45833333333334
+    },
+    {
+      "time": 126.85185185185185,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 226.8287037037037
+    },
+    {
+      "kind": "line",
+      "beat": 343,
+      "isMeasure": false,
+      "time": 127.03703703703704,
+      "pos": 227.19907407407408
+    },
+    {
+      "kind": "line",
+      "beat": 344,
+      "isMeasure": true,
+      "time": 127.4074074074074,
+      "pos": 227.9398148148148
+    },
+    {
+      "time": 127.5925925925926,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 228.3101851851852
+    },
+    {
+      "kind": "line",
+      "beat": 345,
+      "isMeasure": false,
+      "time": 127.77777777777777,
+      "pos": 228.68055555555554
+    },
+    {
+      "time": 127.96296296296296,
+      "lane": 3,
+      "endLane": 3,
+      "width": 3,
+      "kind": "slider_right",
+      "direction": "left",
+      "duration": 0,
+      "pos": 229.05092592592592
+    },
+    {
+      "kind": "line",
+      "beat": 346,
+      "isMeasure": false,
+      "time": 128.14814814814815,
+      "pos": 229.4212962962963
+    },
+    {
+      "time": 128.33333333333334,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 229.79166666666669
+    },
+    {
+      "kind": "line",
+      "beat": 347,
+      "isMeasure": false,
+      "time": 128.5185185185185,
+      "pos": 230.162037037037
+    },
+    {
+      "kind": "line",
+      "beat": 348,
+      "isMeasure": true,
+      "time": 128.88888888888889,
+      "pos": 230.90277777777777
+    },
+    {
+      "time": 129.07407407407408,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 231.27314814814815
+    },
+    {
+      "kind": "line",
+      "beat": 349,
+      "isMeasure": false,
+      "time": 129.25925925925927,
+      "pos": 231.64351851851853
+    },
+    {
+      "kind": "line",
+      "beat": 350,
+      "isMeasure": false,
+      "time": 129.62962962962962,
+      "pos": 232.38425925925924
+    },
+    {
+      "time": 129.8148148148148,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 232.75462962962962
+    },
+    {
+      "kind": "line",
+      "beat": 351,
+      "isMeasure": false,
+      "time": 130,
+      "pos": 233.125
+    },
+    {
+      "kind": "line",
+      "beat": 352,
+      "isMeasure": true,
+      "time": 130.37037037037038,
+      "pos": 233.86574074074076
+    },
+    {
+      "time": 130.55555555555554,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 234.2361111111111
+    },
+    {
+      "kind": "line",
+      "beat": 353,
+      "isMeasure": false,
+      "time": 130.74074074074073,
+      "pos": 234.60648148148147
+    },
+    {
+      "kind": "line",
+      "beat": 354,
+      "isMeasure": false,
+      "time": 131.11111111111111,
+      "pos": 235.34722222222223
+    },
+    {
+      "time": 131.2962962962963,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 235.7175925925926
+    },
+    {
+      "kind": "line",
+      "beat": 355,
+      "isMeasure": false,
+      "time": 131.4814814814815,
+      "pos": 236.087962962963
+    },
+    {
+      "kind": "line",
+      "beat": 356,
+      "isMeasure": true,
+      "time": 131.85185185185185,
+      "pos": 236.8287037037037
+    },
+    {
+      "time": 132.03703703703704,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 237.19907407407408
+    },
+    {
+      "kind": "line",
+      "beat": 357,
+      "isMeasure": false,
+      "time": 132.22222222222223,
+      "pos": 237.56944444444446
+    },
+    {
+      "kind": "line",
+      "beat": 358,
+      "isMeasure": false,
+      "time": 132.59259259259258,
+      "pos": 238.31018518518516
+    },
+    {
+      "time": 132.77777777777777,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 238.68055555555554
+    },
+    {
+      "kind": "line",
+      "beat": 359,
+      "isMeasure": false,
+      "time": 132.96296296296296,
+      "pos": 239.05092592592592
+    },
+    {
+      "time": 133.14814814814815,
+      "lane": 3,
+      "endLane": 3,
+      "width": 3,
+      "kind": "slider_right",
+      "direction": "right",
+      "duration": 0,
+      "pos": 239.4212962962963
+    },
+    {
+      "kind": "line",
+      "beat": 360,
+      "isMeasure": true,
+      "time": 133.33333333333334,
+      "pos": 239.79166666666669
+    },
+    {
+      "time": 133.5185185185185,
+      "lane": 0,
+      "endLane": 0,
+      "width": 3,
+      "kind": "slider_left",
+      "direction": "left",
+      "duration": 0,
+      "pos": 240.162037037037
+    },
+    {
+      "kind": "line",
+      "beat": 361,
+      "isMeasure": false,
+      "time": 133.7037037037037,
+      "pos": 240.5324074074074
+    },
+    {
+      "time": 133.88888888888889,
+      "lane": 3,
+      "endLane": 3,
+      "width": 3,
+      "kind": "slider_right",
+      "direction": "left",
+      "duration": 0,
+      "pos": 240.90277777777777
+    },
+    {
+      "kind": "line",
+      "beat": 362,
+      "isMeasure": false,
+      "time": 134.07407407407408,
+      "pos": 241.27314814814815
+    },
+    {
+      "kind": "line",
+      "beat": 363,
+      "isMeasure": false,
+      "time": 134.44444444444446,
+      "pos": 242.0138888888889
+    },
+    {
+      "time": 134.62962962962962,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 242.38425925925924
+    },
+    {
+      "kind": "line",
+      "beat": 364,
+      "isMeasure": true,
+      "time": 134.8148148148148,
+      "pos": 242.75462962962962
+    },
+    {
+      "kind": "line",
+      "beat": 365,
+      "isMeasure": false,
+      "time": 135.1851851851852,
+      "pos": 243.49537037037038
+    },
+    {
+      "time": 135.37037037037038,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 243.86574074074076
+    },
+    {
+      "kind": "line",
+      "beat": 366,
+      "isMeasure": false,
+      "time": 135.55555555555554,
+      "pos": 244.2361111111111
+    },
+    {
+      "kind": "line",
+      "beat": 367,
+      "isMeasure": false,
+      "time": 135.92592592592592,
+      "pos": 244.97685185185185
+    },
+    {
+      "time": 136.11111111111111,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 245.34722222222223
+    },
+    {
+      "kind": "line",
+      "beat": 368,
+      "isMeasure": true,
+      "time": 136.2962962962963,
+      "pos": 245.7175925925926
+    },
+    {
+      "kind": "line",
+      "beat": 369,
+      "isMeasure": false,
+      "time": 136.66666666666666,
+      "pos": 246.45833333333331
+    },
+    {
+      "time": 136.85185185185185,
+      "lane": 3,
+      "endLane": 3,
+      "width": 3,
+      "kind": "slider_right",
+      "direction": "right",
+      "duration": 0,
+      "pos": 246.8287037037037
+    },
+    {
+      "kind": "line",
+      "beat": 370,
+      "isMeasure": false,
+      "time": 137.03703703703704,
+      "pos": 247.19907407407408
+    },
+    {
+      "time": 137.22222222222223,
+      "lane": 0,
+      "endLane": 0,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 247.56944444444446
+    },
+    {
+      "kind": "line",
+      "beat": 371,
+      "isMeasure": false,
+      "time": 137.40740740740742,
+      "pos": 247.93981481481484
+    },
+    {
+      "kind": "line",
+      "beat": 372,
+      "isMeasure": true,
+      "time": 137.77777777777777,
+      "pos": 248.68055555555554
+    },
+    {
+      "time": 137.96296296296296,
+      "lane": 0,
+      "endLane": 0,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 249.05092592592592
+    },
+    {
+      "kind": "line",
+      "beat": 373,
+      "isMeasure": false,
+      "time": 138.14814814814815,
+      "pos": 249.4212962962963
+    },
+    {
+      "kind": "line",
+      "beat": 374,
+      "isMeasure": false,
+      "time": 138.5185185185185,
+      "pos": 250.162037037037
+    },
+    {
+      "time": 138.7037037037037,
+      "lane": 0,
+      "endLane": 0,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 250.5324074074074
+    },
+    {
+      "kind": "line",
+      "beat": 375,
+      "isMeasure": false,
+      "time": 138.88888888888889,
+      "pos": 250.90277777777777
+    },
+    {
+      "kind": "line",
+      "beat": 376,
+      "isMeasure": true,
+      "time": 139.25925925925927,
+      "pos": 251.64351851851853
+    },
+    {
+      "time": 139.44444444444446,
+      "lane": 5,
+      "endLane": 5,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 252.0138888888889
+    },
+    {
+      "kind": "line",
+      "beat": 377,
+      "isMeasure": false,
+      "time": 139.62962962962962,
+      "pos": 252.38425925925924
+    },
+    {
+      "time": 139.8148148148148,
+      "lane": 3,
+      "endLane": 3,
+      "width": 3,
+      "kind": "slider_right",
+      "direction": "left",
+      "duration": 0,
+      "pos": 252.75462962962962
+    },
+    {
+      "kind": "line",
+      "beat": 378,
+      "isMeasure": false,
+      "time": 140,
+      "pos": 253.125
+    },
+    {
+      "kind": "line",
+      "beat": 379,
+      "isMeasure": false,
+      "time": 140.37037037037038,
+      "pos": 253.86574074074076
+    },
+    {
+      "time": 140.55555555555554,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 254.2361111111111
+    },
+    {
+      "kind": "line",
+      "beat": 380,
+      "isMeasure": true,
+      "time": 140.74074074074073,
+      "pos": 254.60648148148147
+    },
+    {
+      "kind": "line",
+      "beat": 381,
+      "isMeasure": false,
+      "time": 141.11111111111111,
+      "pos": 255.34722222222223
+    },
+    {
+      "time": 141.2962962962963,
+      "lane": 0,
+      "endLane": 0,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 255.7175925925926
+    },
+    {
+      "kind": "line",
+      "beat": 382,
+      "isMeasure": false,
+      "time": 141.4814814814815,
+      "pos": 256.087962962963
+    },
+    {
+      "kind": "line",
+      "beat": 383,
+      "isMeasure": false,
+      "time": 141.85185185185185,
+      "pos": 256.8287037037037
+    },
+    {
+      "time": 142.03703703703704,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 257.1990740740741
+    },
+    {
+      "kind": "line",
+      "beat": 384,
+      "isMeasure": true,
+      "time": 142.22222222222223,
+      "pos": 257.56944444444446
+    },
+    {
+      "time": 142.40740740740742,
+      "lane": 4,
+      "endLane": 3,
+      "width": 1,
+      "kind": "hold",
+      "duration": 0.18518518518519045,
+      "pos": 257.93981481481484,
+      "endPos": 258.3101851851852
+    },
+    {
+      "time": 142.40740740740742,
+      "lane": 4,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 257.93981481481484
+    },
+    {
+      "kind": "line",
+      "beat": 385,
+      "isMeasure": false,
+      "time": 142.59259259259258,
+      "pos": 258.31018518518516
+    },
+    {
+      "time": 142.5925925925926,
+      "lane": 3,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 258.3101851851852
+    },
+    {
+      "kind": "line",
+      "beat": 386,
+      "isMeasure": false,
+      "time": 142.96296296296296,
+      "pos": 259.0509259259259
+    },
+    {
+      "time": 143.14814814814815,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 259.4212962962963
+    },
+    {
+      "kind": "line",
+      "beat": 387,
+      "isMeasure": false,
+      "time": 143.33333333333334,
+      "pos": 259.7916666666667
+    },
+    {
+      "kind": "line",
+      "beat": 388,
+      "isMeasure": true,
+      "time": 143.7037037037037,
+      "pos": 260.5324074074074
+    },
+    {
+      "time": 143.88888888888889,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 260.90277777777777
+    },
+    {
+      "kind": "line",
+      "beat": 389,
+      "isMeasure": false,
+      "time": 144.07407407407408,
+      "pos": 261.27314814814815
+    },
+    {
+      "kind": "line",
+      "beat": 390,
+      "isMeasure": false,
+      "time": 144.44444444444446,
+      "pos": 262.0138888888889
+    },
+    {
+      "time": 144.62962962962962,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 262.38425925925924
+    },
+    {
+      "kind": "line",
+      "beat": 391,
+      "isMeasure": false,
+      "time": 144.8148148148148,
+      "pos": 262.7546296296296
+    },
+    {
+      "kind": "line",
+      "beat": 392,
+      "isMeasure": true,
+      "time": 145.1851851851852,
+      "pos": 263.4953703703704
+    },
+    {
+      "time": 145.37037037037038,
+      "lane": 0,
+      "endLane": 0,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 263.86574074074076
+    },
+    {
+      "kind": "line",
+      "beat": 393,
+      "isMeasure": false,
+      "time": 145.55555555555554,
+      "pos": 264.2361111111111
+    },
+    {
+      "time": 145.74074074074073,
+      "lane": 0,
+      "endLane": 0,
+      "width": 3,
+      "kind": "slider_left",
+      "direction": "right",
+      "duration": 0,
+      "pos": 264.60648148148147
+    },
+    {
+      "kind": "line",
+      "beat": 394,
+      "isMeasure": false,
+      "time": 145.92592592592592,
+      "pos": 264.97685185185185
+    },
+    {
+      "kind": "line",
+      "beat": 395,
+      "isMeasure": false,
+      "time": 146.2962962962963,
+      "pos": 265.7175925925926
+    },
+    {
+      "time": 146.4814814814815,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 266.087962962963
+    },
+    {
+      "kind": "line",
+      "beat": 396,
+      "isMeasure": true,
+      "time": 146.66666666666666,
+      "pos": 266.4583333333333
+    },
+    {
+      "kind": "line",
+      "beat": 397,
+      "isMeasure": false,
+      "time": 147.03703703703704,
+      "pos": 267.1990740740741
+    },
+    {
+      "time": 147.22222222222223,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 267.56944444444446
+    },
+    {
+      "kind": "line",
+      "beat": 398,
+      "isMeasure": false,
+      "time": 147.40740740740742,
+      "pos": 267.93981481481484
+    },
+    {
+      "kind": "line",
+      "beat": 399,
+      "isMeasure": false,
+      "time": 147.77777777777777,
+      "pos": 268.68055555555554
+    },
+    {
+      "time": 147.96296296296296,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 269.0509259259259
+    },
+    {
+      "kind": "line",
+      "beat": 400,
+      "isMeasure": true,
+      "time": 148.14814814814815,
+      "pos": 269.4212962962963
+    },
+    {
+      "time": 148.33333333333334,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 269.7916666666667
+    },
+    {
+      "kind": "line",
+      "beat": 401,
+      "isMeasure": false,
+      "time": 148.5185185185185,
+      "pos": 270.162037037037
+    },
+    {
+      "time": 148.7037037037037,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 270.5324074074074
+    },
+    {
+      "kind": "line",
+      "beat": 402,
+      "isMeasure": false,
+      "time": 148.88888888888889,
+      "pos": 270.90277777777777
+    },
+    {
+      "time": 149.07407407407408,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 271.27314814814815
+    },
+    {
+      "kind": "line",
+      "beat": 403,
+      "isMeasure": false,
+      "time": 149.25925925925927,
+      "pos": 271.64351851851853
+    },
+    {
+      "kind": "line",
+      "beat": 404,
+      "isMeasure": true,
+      "time": 149.62962962962962,
+      "pos": 272.38425925925924
+    },
+    {
+      "time": 149.8148148148148,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 272.7546296296296
+    },
+    {
+      "kind": "line",
+      "beat": 405,
+      "isMeasure": false,
+      "time": 150,
+      "pos": 273.125
+    },
+    {
+      "kind": "line",
+      "beat": 406,
+      "isMeasure": false,
+      "time": 150.37037037037038,
+      "pos": 273.86574074074076
+    },
+    {
+      "time": 150.55555555555554,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 274.2361111111111
+    },
+    {
+      "kind": "line",
+      "beat": 407,
+      "isMeasure": false,
+      "time": 150.74074074074073,
+      "pos": 274.60648148148147
+    },
+    {
+      "kind": "line",
+      "beat": 408,
+      "isMeasure": true,
+      "time": 151.11111111111111,
+      "pos": 275.34722222222223
+    },
+    {
+      "time": 151.2962962962963,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 275.7175925925926
+    },
+    {
+      "kind": "line",
+      "beat": 409,
+      "isMeasure": false,
+      "time": 151.4814814814815,
+      "pos": 276.087962962963
+    },
+    {
+      "time": 151.66666666666666,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 276.4583333333333
+    },
+    {
+      "kind": "line",
+      "beat": 410,
+      "isMeasure": false,
+      "time": 151.85185185185185,
+      "pos": 276.8287037037037
+    },
+    {
+      "time": 152.03703703703704,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 277.1990740740741
+    },
+    {
+      "kind": "line",
+      "beat": 411,
+      "isMeasure": false,
+      "time": 152.22222222222223,
+      "pos": 277.56944444444446
+    },
+    {
+      "kind": "line",
+      "beat": 412,
+      "isMeasure": true,
+      "time": 152.59259259259258,
+      "pos": 278.31018518518516
+    },
+    {
+      "time": 152.77777777777777,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 278.68055555555554
+    },
+    {
+      "kind": "line",
+      "beat": 413,
+      "isMeasure": false,
+      "time": 152.96296296296296,
+      "pos": 279.0509259259259
+    },
+    {
+      "kind": "line",
+      "beat": 414,
+      "isMeasure": false,
+      "time": 153.33333333333334,
+      "pos": 279.7916666666667
+    },
+    {
+      "time": 153.5185185185185,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 280.162037037037
+    },
+    {
+      "kind": "line",
+      "beat": 415,
+      "isMeasure": false,
+      "time": 153.7037037037037,
+      "pos": 280.5324074074074
+    },
+    {
+      "kind": "line",
+      "beat": 416,
+      "isMeasure": true,
+      "time": 154.07407407407408,
+      "pos": 281.27314814814815
+    },
+    {
+      "time": 154.25925925925927,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 281.64351851851853
+    },
+    {
+      "kind": "line",
+      "beat": 417,
+      "isMeasure": false,
+      "time": 154.44444444444446,
+      "pos": 282.0138888888889
+    },
+    {
+      "time": 154.62962962962962,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 282.38425925925924
+    },
+    {
+      "kind": "line",
+      "beat": 418,
+      "isMeasure": false,
+      "time": 154.8148148148148,
+      "pos": 282.7546296296296
+    },
+    {
+      "time": 155,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 283.125
+    },
+    {
+      "kind": "line",
+      "beat": 419,
+      "isMeasure": false,
+      "time": 155.1851851851852,
+      "pos": 283.4953703703704
+    },
+    {
+      "kind": "line",
+      "beat": 420,
+      "isMeasure": true,
+      "time": 155.55555555555554,
+      "pos": 284.2361111111111
+    },
+    {
+      "time": 155.74074074074073,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 284.60648148148147
+    },
+    {
+      "kind": "line",
+      "beat": 421,
+      "isMeasure": false,
+      "time": 155.92592592592592,
+      "pos": 284.97685185185185
+    },
+    {
+      "kind": "line",
+      "beat": 422,
+      "isMeasure": false,
+      "time": 156.2962962962963,
+      "pos": 285.7175925925926
+    },
+    {
+      "time": 156.4814814814815,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 286.087962962963
+    },
+    {
+      "kind": "line",
+      "beat": 423,
+      "isMeasure": false,
+      "time": 156.66666666666666,
+      "pos": 286.4583333333333
+    },
+    {
+      "time": 156.85185185185185,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 286.8287037037037
+    },
+    {
+      "kind": "line",
+      "beat": 424,
+      "isMeasure": true,
+      "time": 157.03703703703704,
+      "pos": 287.1990740740741
+    },
+    {
+      "time": 157.22222222222223,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 287.56944444444446
+    },
+    {
+      "kind": "line",
+      "beat": 425,
+      "isMeasure": false,
+      "time": 157.40740740740742,
+      "pos": 287.93981481481484
+    },
+    {
+      "time": 157.40740740740742,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 287.93981481481484
+    },
+    {
+      "time": 157.59259259259258,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 288.31018518518516
+    },
+    {
+      "kind": "speed",
+      "time": 157.59259259259258,
+      "ratio": 1.5,
+      "pos": 288.31018518518516
+    },
+    {
+      "kind": "line",
+      "beat": 426,
+      "isMeasure": false,
+      "time": 157.77777777777777,
+      "pos": 288.58796296296293
+    },
+    {
+      "kind": "line",
+      "beat": 427,
+      "isMeasure": false,
+      "time": 158.14814814814815,
+      "pos": 289.14351851851853
+    },
+    {
+      "time": 158.14814814814815,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 289.14351851851853
+    },
+    {
+      "kind": "line",
+      "beat": 428,
+      "isMeasure": true,
+      "time": 158.5185185185185,
+      "pos": 289.699074074074
+    },
+    {
+      "time": 158.7037037037037,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 289.97685185185185
+    },
+    {
+      "kind": "line",
+      "beat": 429,
+      "isMeasure": false,
+      "time": 158.88888888888889,
+      "pos": 290.2546296296296
+    },
+    {
+      "kind": "line",
+      "beat": 430,
+      "isMeasure": false,
+      "time": 159.25925925925927,
+      "pos": 290.8101851851852
+    },
+    {
+      "time": 159.25925925925927,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 290.8101851851852
+    },
+    {
+      "kind": "line",
+      "beat": 431,
+      "isMeasure": false,
+      "time": 159.62962962962962,
+      "pos": 291.3657407407407
+    },
+    {
+      "time": 159.8148148148148,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 291.6435185185185
+    },
+    {
+      "kind": "line",
+      "beat": 432,
+      "isMeasure": true,
+      "time": 160,
+      "pos": 291.9212962962963
+    },
+    {
+      "kind": "line",
+      "beat": 433,
+      "isMeasure": false,
+      "time": 160.37037037037038,
+      "pos": 292.47685185185185
+    },
+    {
+      "kind": "line",
+      "beat": 434,
+      "isMeasure": false,
+      "time": 160.74074074074073,
+      "pos": 293.0324074074074
+    },
+    {
+      "time": 160.92592592592592,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 293.31018518518516
+    },
+    {
+      "kind": "line",
+      "beat": 435,
+      "isMeasure": false,
+      "time": 161.11111111111111,
+      "pos": 293.58796296296293
+    },
+    {
+      "kind": "line",
+      "beat": 436,
+      "isMeasure": true,
+      "time": 161.4814814814815,
+      "pos": 294.14351851851853
+    },
+    {
+      "kind": "line",
+      "beat": 437,
+      "isMeasure": false,
+      "time": 161.85185185185185,
+      "pos": 294.6990740740741
+    },
+    {
+      "kind": "line",
+      "beat": 438,
+      "isMeasure": false,
+      "time": 162.22222222222223,
+      "pos": 295.2546296296296
+    },
+    {
+      "time": 162.22222222222223,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 295.2546296296296
+    },
+    {
+      "kind": "line",
+      "beat": 439,
+      "isMeasure": false,
+      "time": 162.59259259259258,
+      "pos": 295.81018518518516
+    },
+    {
+      "kind": "line",
+      "beat": 440,
+      "isMeasure": true,
+      "time": 162.96296296296296,
+      "pos": 296.36574074074076
+    },
+    {
+      "kind": "line",
+      "beat": 441,
+      "isMeasure": false,
+      "time": 163.33333333333334,
+      "pos": 296.9212962962963
+    },
+    {
+      "time": 163.5185185185185,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 297.199074074074
+    },
+    {
+      "kind": "line",
+      "beat": 442,
+      "isMeasure": false,
+      "time": 163.7037037037037,
+      "pos": 297.47685185185185
+    },
+    {
+      "kind": "line",
+      "beat": 443,
+      "isMeasure": false,
+      "time": 164.07407407407408,
+      "pos": 298.0324074074074
+    },
+    {
+      "kind": "line",
+      "beat": 444,
+      "isMeasure": true,
+      "time": 164.44444444444446,
+      "pos": 298.587962962963
+    },
+    {
+      "time": 164.44444444444446,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 298.587962962963
+    },
+    {
+      "kind": "line",
+      "beat": 445,
+      "isMeasure": false,
+      "time": 164.8148148148148,
+      "pos": 299.1435185185185
+    },
+    {
+      "kind": "line",
+      "beat": 446,
+      "isMeasure": false,
+      "time": 165.1851851851852,
+      "pos": 299.6990740740741
+    },
+    {
+      "kind": "line",
+      "beat": 447,
+      "isMeasure": false,
+      "time": 165.55555555555554,
+      "pos": 300.2546296296296
+    },
+    {
+      "time": 165.55555555555554,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 300.2546296296296
+    },
+    {
+      "kind": "line",
+      "beat": 448,
+      "isMeasure": true,
+      "time": 165.92592592592592,
+      "pos": 300.81018518518516
+    },
+    {
+      "time": 165.92592592592592,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 300.81018518518516
+    },
+    {
+      "kind": "line",
+      "beat": 449,
+      "isMeasure": false,
+      "time": 166.2962962962963,
+      "pos": 301.36574074074076
+    },
+    {
+      "kind": "line",
+      "beat": 450,
+      "isMeasure": false,
+      "time": 166.66666666666666,
+      "pos": 301.9212962962963
+    },
+    {
+      "kind": "line",
+      "beat": 451,
+      "isMeasure": false,
+      "time": 167.03703703703704,
+      "pos": 302.47685185185185
+    },
+    {
+      "kind": "line",
+      "beat": 452,
+      "isMeasure": true,
+      "time": 167.40740740740742,
+      "pos": 303.0324074074074
+    },
+    {
+      "time": 167.40740740740742,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 303.0324074074074
+    },
+    {
+      "kind": "line",
+      "beat": 453,
+      "isMeasure": false,
+      "time": 167.77777777777777,
+      "pos": 303.58796296296293
+    },
+    {
+      "time": 167.77777777777777,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 303.58796296296293
+    },
+    {
+      "kind": "line",
+      "beat": 454,
+      "isMeasure": false,
+      "time": 168.14814814814815,
+      "pos": 304.14351851851853
+    },
+    {
+      "time": 168.14814814814815,
+      "lane": 1,
+      "endLane": 1,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 304.14351851851853
+    },
+    {
+      "kind": "line",
+      "beat": 455,
+      "isMeasure": false,
+      "time": 168.5185185185185,
+      "pos": 304.699074074074
+    },
+    {
+      "kind": "line",
+      "beat": 456,
+      "isMeasure": true,
+      "time": 168.88888888888889,
+      "pos": 305.2546296296296
+    },
+    {
+      "time": 169.07407407407408,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 305.5324074074074
+    },
+    {
+      "kind": "line",
+      "beat": 457,
+      "isMeasure": false,
+      "time": 169.25925925925927,
+      "pos": 305.8101851851852
+    },
+    {
+      "kind": "line",
+      "beat": 458,
+      "isMeasure": false,
+      "time": 169.62962962962962,
+      "pos": 306.3657407407407
+    },
+    {
+      "time": 169.62962962962962,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 306.3657407407407
+    },
+    {
+      "time": 169.67592592592592,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 306.43518518518516
+    },
+    {
+      "time": 169.72222222222223,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 306.5046296296296
+    },
+    {
+      "kind": "line",
+      "beat": 459,
+      "isMeasure": false,
+      "time": 170,
+      "pos": 306.9212962962963
+    },
+    {
+      "kind": "line",
+      "beat": 460,
+      "isMeasure": true,
+      "time": 170.37037037037038,
+      "pos": 307.47685185185185
+    },
+    {
+      "kind": "line",
+      "beat": 461,
+      "isMeasure": false,
+      "time": 170.74074074074073,
+      "pos": 308.0324074074074
+    }
+  ]
+}

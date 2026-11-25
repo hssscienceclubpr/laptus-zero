@@ -1,0 +1,1175 @@
+%{
+  "bpm": 120,
+  "duration": 60,
+  "audioOffset": 0,
+  "bgmVolume": 100,
+  "seVolume": 100,
+  "objs": [
+    {
+      "kind": "line",
+      "beat": 0,
+      "isMeasure": true,
+      "time": 0,
+      "pos": 0
+    },
+    {
+      "kind": "line",
+      "beat": 1,
+      "isMeasure": false,
+      "time": 0.5,
+      "pos": 0.5
+    },
+    {
+      "kind": "line",
+      "beat": 2,
+      "isMeasure": false,
+      "time": 1,
+      "pos": 1
+    },
+    {
+      "kind": "line",
+      "beat": 3,
+      "isMeasure": false,
+      "time": 1.5,
+      "pos": 1.5
+    },
+    {
+      "kind": "line",
+      "beat": 4,
+      "isMeasure": true,
+      "time": 2,
+      "pos": 2
+    },
+    {
+      "time": 2,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 2
+    },
+    {
+      "kind": "line",
+      "beat": 5,
+      "isMeasure": false,
+      "time": 2.5,
+      "pos": 2.5
+    },
+    {
+      "kind": "line",
+      "beat": 6,
+      "isMeasure": false,
+      "time": 3,
+      "pos": 3
+    },
+    {
+      "kind": "line",
+      "beat": 7,
+      "isMeasure": false,
+      "time": 3.5,
+      "pos": 3.5
+    },
+    {
+      "kind": "line",
+      "beat": 8,
+      "isMeasure": true,
+      "time": 4,
+      "pos": 4
+    },
+    {
+      "kind": "line",
+      "beat": 9,
+      "isMeasure": false,
+      "time": 4.5,
+      "pos": 4.5
+    },
+    {
+      "kind": "line",
+      "beat": 10,
+      "isMeasure": false,
+      "time": 5,
+      "pos": 5
+    },
+    {
+      "kind": "line",
+      "beat": 11,
+      "isMeasure": false,
+      "time": 5.5,
+      "pos": 5.5
+    },
+    {
+      "kind": "line",
+      "beat": 12,
+      "isMeasure": true,
+      "time": 6,
+      "pos": 6
+    },
+    {
+      "time": 6,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_white",
+      "duration": 0,
+      "pos": 6
+    },
+    {
+      "kind": "line",
+      "beat": 13,
+      "isMeasure": false,
+      "time": 6.5,
+      "pos": 6.5
+    },
+    {
+      "kind": "line",
+      "beat": 14,
+      "isMeasure": false,
+      "time": 7,
+      "pos": 7
+    },
+    {
+      "kind": "line",
+      "beat": 15,
+      "isMeasure": false,
+      "time": 7.5,
+      "pos": 7.5
+    },
+    {
+      "kind": "line",
+      "beat": 16,
+      "isMeasure": true,
+      "time": 8,
+      "pos": 8
+    },
+    {
+      "kind": "line",
+      "beat": 17,
+      "isMeasure": false,
+      "time": 8.5,
+      "pos": 8.5
+    },
+    {
+      "kind": "line",
+      "beat": 18,
+      "isMeasure": false,
+      "time": 9,
+      "pos": 9
+    },
+    {
+      "kind": "line",
+      "beat": 19,
+      "isMeasure": false,
+      "time": 9.5,
+      "pos": 9.5
+    },
+    {
+      "kind": "line",
+      "beat": 20,
+      "isMeasure": true,
+      "time": 10,
+      "pos": 10
+    },
+    {
+      "time": 10,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 10
+    },
+    {
+      "kind": "line",
+      "beat": 21,
+      "isMeasure": false,
+      "time": 10.5,
+      "pos": 10.5
+    },
+    {
+      "kind": "line",
+      "beat": 22,
+      "isMeasure": false,
+      "time": 11,
+      "pos": 11
+    },
+    {
+      "kind": "line",
+      "beat": 23,
+      "isMeasure": false,
+      "time": 11.5,
+      "pos": 11.5
+    },
+    {
+      "kind": "line",
+      "beat": 24,
+      "isMeasure": true,
+      "time": 12,
+      "pos": 12
+    },
+    {
+      "kind": "line",
+      "beat": 25,
+      "isMeasure": false,
+      "time": 12.5,
+      "pos": 12.5
+    },
+    {
+      "kind": "line",
+      "beat": 26,
+      "isMeasure": false,
+      "time": 13,
+      "pos": 13
+    },
+    {
+      "kind": "line",
+      "beat": 27,
+      "isMeasure": false,
+      "time": 13.5,
+      "pos": 13.5
+    },
+    {
+      "kind": "line",
+      "beat": 28,
+      "isMeasure": true,
+      "time": 14,
+      "pos": 14
+    },
+    {
+      "time": 14,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 14
+    },
+    {
+      "time": 14.125,
+      "lane": 2.5,
+      "endLane": 2.5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 14.125
+    },
+    {
+      "time": 14.25,
+      "lane": 3,
+      "endLane": 3,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 14.25
+    },
+    {
+      "time": 14.375,
+      "lane": 3.5,
+      "endLane": 3.5,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 14.375
+    },
+    {
+      "kind": "line",
+      "beat": 29,
+      "isMeasure": false,
+      "time": 14.5,
+      "pos": 14.5
+    },
+    {
+      "time": 14.5,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 14.5
+    },
+    {
+      "time": 14.625,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 14.625
+    },
+    {
+      "time": 14.75,
+      "lane": 4,
+      "endLane": 4,
+      "width": 1,
+      "kind": "tap_yellow",
+      "duration": 0,
+      "pos": 14.75
+    },
+    {
+      "kind": "line",
+      "beat": 30,
+      "isMeasure": false,
+      "time": 15,
+      "pos": 15
+    },
+    {
+      "kind": "line",
+      "beat": 31,
+      "isMeasure": false,
+      "time": 15.5,
+      "pos": 15.5
+    },
+    {
+      "kind": "line",
+      "beat": 32,
+      "isMeasure": true,
+      "time": 16,
+      "pos": 16
+    },
+    {
+      "kind": "line",
+      "beat": 33,
+      "isMeasure": false,
+      "time": 16.5,
+      "pos": 16.5
+    },
+    {
+      "kind": "line",
+      "beat": 34,
+      "isMeasure": false,
+      "time": 17,
+      "pos": 17
+    },
+    {
+      "kind": "line",
+      "beat": 35,
+      "isMeasure": false,
+      "time": 17.5,
+      "pos": 17.5
+    },
+    {
+      "kind": "line",
+      "beat": 36,
+      "isMeasure": true,
+      "time": 18,
+      "pos": 18
+    },
+    {
+      "time": 18,
+      "lane": 2,
+      "endLane": 2,
+      "width": 1,
+      "kind": "hold",
+      "duration": 2,
+      "pos": 18,
+      "endPos": 20
+    },
+    {
+      "time": 18,
+      "lane": 2,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 18
+    },
+    {
+      "time": 18.25,
+      "lane": 2,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 18.25
+    },
+    {
+      "kind": "line",
+      "beat": 37,
+      "isMeasure": false,
+      "time": 18.5,
+      "pos": 18.5
+    },
+    {
+      "time": 18.5,
+      "lane": 2,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 18.5
+    },
+    {
+      "time": 18.75,
+      "lane": 2,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 18.75
+    },
+    {
+      "kind": "line",
+      "beat": 38,
+      "isMeasure": false,
+      "time": 19,
+      "pos": 19
+    },
+    {
+      "time": 19,
+      "lane": 2,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 19
+    },
+    {
+      "time": 19.25,
+      "lane": 2,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 19.25
+    },
+    {
+      "kind": "line",
+      "beat": 39,
+      "isMeasure": false,
+      "time": 19.5,
+      "pos": 19.5
+    },
+    {
+      "time": 19.5,
+      "lane": 2,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 19.5
+    },
+    {
+      "time": 19.75,
+      "lane": 2,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 19.75
+    },
+    {
+      "kind": "line",
+      "beat": 40,
+      "isMeasure": true,
+      "time": 20,
+      "pos": 20
+    },
+    {
+      "time": 20,
+      "lane": 2,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 20
+    },
+    {
+      "kind": "line",
+      "beat": 41,
+      "isMeasure": false,
+      "time": 20.5,
+      "pos": 20.5
+    },
+    {
+      "kind": "line",
+      "beat": 42,
+      "isMeasure": false,
+      "time": 21,
+      "pos": 21
+    },
+    {
+      "kind": "line",
+      "beat": 43,
+      "isMeasure": false,
+      "time": 21.5,
+      "pos": 21.5
+    },
+    {
+      "kind": "line",
+      "beat": 44,
+      "isMeasure": true,
+      "time": 22,
+      "pos": 22
+    },
+    {
+      "kind": "line",
+      "beat": 45,
+      "isMeasure": false,
+      "time": 22.5,
+      "pos": 22.5
+    },
+    {
+      "kind": "line",
+      "beat": 46,
+      "isMeasure": false,
+      "time": 23,
+      "pos": 23
+    },
+    {
+      "kind": "line",
+      "beat": 47,
+      "isMeasure": false,
+      "time": 23.5,
+      "pos": 23.5
+    },
+    {
+      "kind": "line",
+      "beat": 48,
+      "isMeasure": true,
+      "time": 24,
+      "pos": 24
+    },
+    {
+      "time": 24,
+      "lane": 2,
+      "endLane": 3,
+      "width": 1,
+      "kind": "hold",
+      "duration": 4,
+      "pos": 24,
+      "endPos": 28
+    },
+    {
+      "time": 24,
+      "lane": 2,
+      "width": 1,
+      "kind": "judge_red",
+      "pos": 24
+    },
+    {
+      "time": 24.25,
+      "lane": 2.0625,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 24.25
+    },
+    {
+      "kind": "line",
+      "beat": 49,
+      "isMeasure": false,
+      "time": 24.5,
+      "pos": 24.5
+    },
+    {
+      "time": 24.5,
+      "lane": 2.125,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 24.5
+    },
+    {
+      "time": 24.75,
+      "lane": 2.1875,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 24.75
+    },
+    {
+      "kind": "line",
+      "beat": 50,
+      "isMeasure": false,
+      "time": 25,
+      "pos": 25
+    },
+    {
+      "time": 25,
+      "lane": 2.25,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 25
+    },
+    {
+      "time": 25.25,
+      "lane": 2.3125,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 25.25
+    },
+    {
+      "kind": "line",
+      "beat": 51,
+      "isMeasure": false,
+      "time": 25.5,
+      "pos": 25.5
+    },
+    {
+      "time": 25.5,
+      "lane": 2.375,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 25.5
+    },
+    {
+      "time": 25.75,
+      "lane": 2.4375,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 25.75
+    },
+    {
+      "kind": "line",
+      "beat": 52,
+      "isMeasure": true,
+      "time": 26,
+      "pos": 26
+    },
+    {
+      "time": 26,
+      "lane": 2.5,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 26
+    },
+    {
+      "time": 26.25,
+      "lane": 2.5625,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 26.25
+    },
+    {
+      "kind": "line",
+      "beat": 53,
+      "isMeasure": false,
+      "time": 26.5,
+      "pos": 26.5
+    },
+    {
+      "time": 26.5,
+      "lane": 2.625,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 26.5
+    },
+    {
+      "time": 26.75,
+      "lane": 2.6875,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 26.75
+    },
+    {
+      "kind": "line",
+      "beat": 54,
+      "isMeasure": false,
+      "time": 27,
+      "pos": 27
+    },
+    {
+      "time": 27,
+      "lane": 2.75,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 27
+    },
+    {
+      "time": 27.25,
+      "lane": 2.8125,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 27.25
+    },
+    {
+      "kind": "line",
+      "beat": 55,
+      "isMeasure": false,
+      "time": 27.5,
+      "pos": 27.5
+    },
+    {
+      "time": 27.5,
+      "lane": 2.875,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 27.5
+    },
+    {
+      "time": 27.75,
+      "lane": 2.9375,
+      "width": 1,
+      "kind": "judge_white",
+      "pos": 27.75
+    },
+    {
+      "kind": "line",
+      "beat": 56,
+      "isMeasure": true,
+      "time": 28,
+      "pos": 28
+    },
+    {
+      "time": 28,
+      "lane": 3,
+      "width": 1,
+      "kind": "judge_blue",
+      "pos": 28
+    },
+    {
+      "kind": "line",
+      "beat": 57,
+      "isMeasure": false,
+      "time": 28.5,
+      "pos": 28.5
+    },
+    {
+      "kind": "line",
+      "beat": 58,
+      "isMeasure": false,
+      "time": 29,
+      "pos": 29
+    },
+    {
+      "kind": "line",
+      "beat": 59,
+      "isMeasure": false,
+      "time": 29.5,
+      "pos": 29.5
+    },
+    {
+      "kind": "line",
+      "beat": 60,
+      "isMeasure": true,
+      "time": 30,
+      "pos": 30
+    },
+    {
+      "kind": "line",
+      "beat": 61,
+      "isMeasure": false,
+      "time": 30.5,
+      "pos": 30.5
+    },
+    {
+      "kind": "line",
+      "beat": 62,
+      "isMeasure": false,
+      "time": 31,
+      "pos": 31
+    },
+    {
+      "kind": "line",
+      "beat": 63,
+      "isMeasure": false,
+      "time": 31.5,
+      "pos": 31.5
+    },
+    {
+      "kind": "line",
+      "beat": 64,
+      "isMeasure": true,
+      "time": 32,
+      "pos": 32
+    },
+    {
+      "time": 32,
+      "lane": 0,
+      "endLane": 0,
+      "width": 3,
+      "kind": "slider_left",
+      "direction": "left",
+      "duration": 0,
+      "pos": 32
+    },
+    {
+      "kind": "line",
+      "beat": 65,
+      "isMeasure": false,
+      "time": 32.5,
+      "pos": 32.5
+    },
+    {
+      "kind": "line",
+      "beat": 66,
+      "isMeasure": false,
+      "time": 33,
+      "pos": 33
+    },
+    {
+      "kind": "line",
+      "beat": 67,
+      "isMeasure": false,
+      "time": 33.5,
+      "pos": 33.5
+    },
+    {
+      "kind": "line",
+      "beat": 68,
+      "isMeasure": true,
+      "time": 34,
+      "pos": 34
+    },
+    {
+      "kind": "line",
+      "beat": 69,
+      "isMeasure": false,
+      "time": 34.5,
+      "pos": 34.5
+    },
+    {
+      "kind": "line",
+      "beat": 70,
+      "isMeasure": false,
+      "time": 35,
+      "pos": 35
+    },
+    {
+      "kind": "line",
+      "beat": 71,
+      "isMeasure": false,
+      "time": 35.5,
+      "pos": 35.5
+    },
+    {
+      "kind": "line",
+      "beat": 72,
+      "isMeasure": true,
+      "time": 36,
+      "pos": 36
+    },
+    {
+      "time": 36,
+      "lane": 0,
+      "endLane": 0,
+      "width": 6,
+      "kind": "slider_full",
+      "direction": "right",
+      "duration": 0,
+      "pos": 36
+    },
+    {
+      "kind": "line",
+      "beat": 73,
+      "isMeasure": false,
+      "time": 36.5,
+      "pos": 36.5
+    },
+    {
+      "kind": "line",
+      "beat": 74,
+      "isMeasure": false,
+      "time": 37,
+      "pos": 37
+    },
+    {
+      "kind": "line",
+      "beat": 75,
+      "isMeasure": false,
+      "time": 37.5,
+      "pos": 37.5
+    },
+    {
+      "kind": "line",
+      "beat": 76,
+      "isMeasure": true,
+      "time": 38,
+      "pos": 38
+    },
+    {
+      "kind": "line",
+      "beat": 77,
+      "isMeasure": false,
+      "time": 38.5,
+      "pos": 38.5
+    },
+    {
+      "kind": "line",
+      "beat": 78,
+      "isMeasure": false,
+      "time": 39,
+      "pos": 39
+    },
+    {
+      "kind": "line",
+      "beat": 79,
+      "isMeasure": false,
+      "time": 39.5,
+      "pos": 39.5
+    },
+    {
+      "kind": "line",
+      "beat": 80,
+      "isMeasure": true,
+      "time": 40,
+      "pos": 40
+    },
+    {
+      "kind": "line",
+      "beat": 81,
+      "isMeasure": false,
+      "time": 40.5,
+      "pos": 40.5
+    },
+    {
+      "kind": "line",
+      "beat": 82,
+      "isMeasure": false,
+      "time": 41,
+      "pos": 41
+    },
+    {
+      "kind": "line",
+      "beat": 83,
+      "isMeasure": false,
+      "time": 41.5,
+      "pos": 41.5
+    },
+    {
+      "kind": "line",
+      "beat": 84,
+      "isMeasure": true,
+      "time": 42,
+      "pos": 42
+    },
+    {
+      "kind": "line",
+      "beat": 85,
+      "isMeasure": false,
+      "time": 42.5,
+      "pos": 42.5
+    },
+    {
+      "kind": "line",
+      "beat": 86,
+      "isMeasure": false,
+      "time": 43,
+      "pos": 43
+    },
+    {
+      "kind": "line",
+      "beat": 87,
+      "isMeasure": false,
+      "time": 43.5,
+      "pos": 43.5
+    },
+    {
+      "kind": "line",
+      "beat": 88,
+      "isMeasure": true,
+      "time": 44,
+      "pos": 44
+    },
+    {
+      "kind": "line",
+      "beat": 89,
+      "isMeasure": false,
+      "time": 44.5,
+      "pos": 44.5
+    },
+    {
+      "kind": "line",
+      "beat": 90,
+      "isMeasure": false,
+      "time": 45,
+      "pos": 45
+    },
+    {
+      "kind": "line",
+      "beat": 91,
+      "isMeasure": false,
+      "time": 45.5,
+      "pos": 45.5
+    },
+    {
+      "kind": "line",
+      "beat": 92,
+      "isMeasure": true,
+      "time": 46,
+      "pos": 46
+    },
+    {
+      "kind": "line",
+      "beat": 93,
+      "isMeasure": false,
+      "time": 46.5,
+      "pos": 46.5
+    },
+    {
+      "kind": "line",
+      "beat": 94,
+      "isMeasure": false,
+      "time": 47,
+      "pos": 47
+    },
+    {
+      "kind": "line",
+      "beat": 95,
+      "isMeasure": false,
+      "time": 47.5,
+      "pos": 47.5
+    },
+    {
+      "kind": "line",
+      "beat": 96,
+      "isMeasure": true,
+      "time": 48,
+      "pos": 48
+    },
+    {
+      "kind": "line",
+      "beat": 97,
+      "isMeasure": false,
+      "time": 48.5,
+      "pos": 48.5
+    },
+    {
+      "kind": "line",
+      "beat": 98,
+      "isMeasure": false,
+      "time": 49,
+      "pos": 49
+    },
+    {
+      "kind": "line",
+      "beat": 99,
+      "isMeasure": false,
+      "time": 49.5,
+      "pos": 49.5
+    },
+    {
+      "kind": "line",
+      "beat": 100,
+      "isMeasure": true,
+      "time": 50,
+      "pos": 50
+    },
+    {
+      "kind": "line",
+      "beat": 101,
+      "isMeasure": false,
+      "time": 50.5,
+      "pos": 50.5
+    },
+    {
+      "kind": "line",
+      "beat": 102,
+      "isMeasure": false,
+      "time": 51,
+      "pos": 51
+    },
+    {
+      "kind": "line",
+      "beat": 103,
+      "isMeasure": false,
+      "time": 51.5,
+      "pos": 51.5
+    },
+    {
+      "kind": "line",
+      "beat": 104,
+      "isMeasure": true,
+      "time": 52,
+      "pos": 52
+    },
+    {
+      "kind": "line",
+      "beat": 105,
+      "isMeasure": false,
+      "time": 52.5,
+      "pos": 52.5
+    },
+    {
+      "kind": "line",
+      "beat": 106,
+      "isMeasure": false,
+      "time": 53,
+      "pos": 53
+    },
+    {
+      "kind": "line",
+      "beat": 107,
+      "isMeasure": false,
+      "time": 53.5,
+      "pos": 53.5
+    },
+    {
+      "kind": "line",
+      "beat": 108,
+      "isMeasure": true,
+      "time": 54,
+      "pos": 54
+    },
+    {
+      "kind": "line",
+      "beat": 109,
+      "isMeasure": false,
+      "time": 54.5,
+      "pos": 54.5
+    },
+    {
+      "kind": "line",
+      "beat": 110,
+      "isMeasure": false,
+      "time": 55,
+      "pos": 55
+    },
+    {
+      "kind": "line",
+      "beat": 111,
+      "isMeasure": false,
+      "time": 55.5,
+      "pos": 55.5
+    },
+    {
+      "kind": "line",
+      "beat": 112,
+      "isMeasure": true,
+      "time": 56,
+      "pos": 56
+    },
+    {
+      "kind": "line",
+      "beat": 113,
+      "isMeasure": false,
+      "time": 56.5,
+      "pos": 56.5
+    },
+    {
+      "kind": "line",
+      "beat": 114,
+      "isMeasure": false,
+      "time": 57,
+      "pos": 57
+    },
+    {
+      "kind": "line",
+      "beat": 115,
+      "isMeasure": false,
+      "time": 57.5,
+      "pos": 57.5
+    },
+    {
+      "kind": "line",
+      "beat": 116,
+      "isMeasure": true,
+      "time": 58,
+      "pos": 58
+    },
+    {
+      "kind": "line",
+      "beat": 117,
+      "isMeasure": false,
+      "time": 58.5,
+      "pos": 58.5
+    },
+    {
+      "kind": "line",
+      "beat": 118,
+      "isMeasure": false,
+      "time": 59,
+      "pos": 59
+    },
+    {
+      "kind": "line",
+      "beat": 119,
+      "isMeasure": false,
+      "time": 59.5,
+      "pos": 59.5
+    },
+    {
+      "kind": "line",
+      "beat": 120,
+      "isMeasure": true,
+      "time": 60,
+      "pos": 60
+    },
+    {
+      "kind": "line",
+      "beat": 121,
+      "isMeasure": false,
+      "time": 60.5,
+      "pos": 60.5
+    }
+  ]
+}
